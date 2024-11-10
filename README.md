@@ -1,6 +1,7 @@
 # Erfindergeist Wiki
 
-The wiki is rendered to a static page using [hugo](https://gohugo.io/). It is deployed to Github pages and hosted at https://wiki.erfindergeist.org/.
+The wiki is rendered to a static page using [hugo](https://gohugo.io/). It is deployed to Github pages and hosted at:\
+**https://wiki.erfindergeist.org/**
 
 ## Installation
 
