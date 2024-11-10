@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://wiki.erfindergeist.org/'
 languageCode = 'de-de'
 title = 'Erfindergeist Wiki'
 
@@ -31,19 +31,19 @@ path = 'github.com/alex-shpak/hugo-book'
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  #BookRepo = 'https://github.com/alex-shpak/hugo-book'
+  BookRepo = 'https://github.com/ErfindergeistJuelichOfficial/erfindergeist-wiki'
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
   # Requires 'BookRepo' param.
   # Value used to construct a URL consisting of BookRepo/BookCommitPath/<commit-hash>
   # Github uses 'commit', Bitbucket uses 'commits'
-  # BookCommitPath = 'commit'
+  BookCommitPath = 'commit'
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
   # Edit path must point to root directory of repo.
-  #BookEditPath = 'edit/main/exampleSite'
+  BookEditPath = 'edit/main/'
 
   # Configure the date format used on the pages
   # - In git information
