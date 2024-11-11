@@ -9,6 +9,7 @@ weight: 1
 # bookSearchExclude: false
 ---
 # 3D-Drucker
+
 ## Disclaimer
 
 Der Drucker ist eine Leihgabe. Bitte Ordentlich damit umgehen!
@@ -23,7 +24,9 @@ Anycubic i3 Mega S
 
 ## PLA einspannen
 
-- Tools 
+im Drucker Display folgenden Pfad nachgehen:
+
+- Tools
 - -> (rechts)
 - Filament
 - Filament In
