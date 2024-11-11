@@ -12,7 +12,7 @@ weight: 1
 
 ## Disclaimer
 
-Der Gravierer ist eine Leihgabe. bitte Ordentlich mit umgehen!
+Der Gravierer ist eine Leihgabe. Bitte ordentlich damit umgehen!
 
 ## Hersteller
 
