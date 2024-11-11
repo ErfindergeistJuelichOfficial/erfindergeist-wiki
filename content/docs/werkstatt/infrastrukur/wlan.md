@@ -1,7 +1,6 @@
 ---
-title: "Wlan"
+title: "WLAN"
 weight: 1
-draft: true
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -12,7 +11,7 @@ draft: true
 
 # Freifunk
 
-Das Freifunk WLNA ist fei nutzbar bei uns in der Werkstatt. Mehr infos unter <https://freifunk.net/>
+Das Freifunk WLAN ist fei nutzbar bei uns in der Werkstatt. Mehr infos unter <https://freifunk.net/>
 
 # Fritz!Box xxx Cable
 
