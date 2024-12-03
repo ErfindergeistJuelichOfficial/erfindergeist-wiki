@@ -3,7 +3,8 @@ name: Deploy site to Pages
 on:
   push:
     branches:
-      - main
+      - "main"
+      - "feature/*"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -57,13 +58,27 @@ jobs:
         with:
           path: ./public
 
-  # Deployment job
-  deploy:
+  # Deployment jobs
+  deploy-test:
+    runs-on: ubuntu-latest
+    needs: build
+    if: contains('refs/heads/feature', github.ref)
+    steps:
+      - name: Upload to wiki-test.erfindergeist.org
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: erfindergeist.org
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+
+  deploy-prod:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    if: github.ref == 'refs/heads/feature*'
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
