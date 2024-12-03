@@ -57,11 +57,11 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-      # - name: Upload artifact
-      #   uses: actions/upload-artifact@v4
-      #   with:
-      #     name: page-files
-      #     path: ./public
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: page-files
+          path: ./public
 
   # Deployment jobs
   deploy-test:
@@ -69,8 +69,10 @@ jobs:
     needs: build
     if: contains(github.ref_name, 'feature')
     steps:
-      - name: Download all workflow run artifacts
+      - name: Download page-files artifacts
         uses: actions/download-artifact@v4
+        with:
+          name: page-files
       - name: Upload to wiki-test.erfindergeist.org
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
