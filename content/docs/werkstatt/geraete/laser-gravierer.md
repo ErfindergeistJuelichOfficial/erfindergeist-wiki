@@ -76,11 +76,13 @@ Da keine geeigneten einstellungen zum schneiden gefunden wurden, wurden tests du
 
 Zum testen wurde folgende Datei verwendet:
 
-- SVG: <br>
-<img src="/images/laser-gravierer/circle00C.svg" width="100%" alt="Test Datei SVG">
+SVG:
 
-- PNG: <br>
-<img src="/images/laser-gravierer/circle00C.png" width="100%" alt="Test Datei PNG">
+![Test_Datei_SVG](/images/laser-gravierer/circle00C.svg)
+
+PNG:
+
+![Test_Datei_PNG](/images/laser-gravierer/circle00C.png)
 
 ##### Test 1
 
