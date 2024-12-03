@@ -44,9 +44,9 @@ Der Drucker ist nur via Bluetooth nutzbar. Am einfachsten ist die Smartphone Sof
 - Der Filter muss durch drücken des Plus-Buttons aktiviert werden. Die Stärke muss selber angepasst werden
 - während Pausen kann man durch gedrückt halten der Minus-Taste für 5sec, den Filter ausschalten
 
-## Stilllegung
+## Ausschalten
 
-Einfach beide Netz-Stecker ziehen.
+- Einfach beide Netz-Stecker ziehen.
 
 ## Verwendung
 
@@ -55,3 +55,47 @@ Einfach beide Netz-Stecker ziehen.
 - Danach soll man eine Auflösung wählen. Beim testen viel auf, je höher die Auflösung je tiefer geht der Laser.
 - Im Folge Screen kann man das Material wählen. Was Dazu führt das Stärke und tiefe automatisch eingestellt werden.
 - Ab hier muss man sich an die perfekte einstellung ran tasten.
+
+## InkScape
+
+folgend optimale Einstellungen zum Schneiden:
+
+- Objekte:
+  - Fill: "no paint" ![InkScape1](/images/laser-gravierer/test_1_inkScape_01.png)
+  - Stroke paint: "black" ![InkScape2](/images/laser-gravierer/test_1_inkScape_02.png)
+  - Stroke style: "0,4mm, solid line" ![InkScape3](/images/laser-gravierer/test_1_inkScape_03.png)
+- als PNG mit 300 DPI exportieren
+
+## Tests
+
+### Schneiden
+
+Da keine geeigneten einstellungen zum schneiden gefunden wurden, wurden tests durchgeführt. folgend dokumentiert
+
+#### Test Datei
+
+Zum testen wurde folgende Datei verwendet:
+
+SVG:
+
+![Test_Datei_SVG](/images/laser-gravierer/circle00C.svg)
+
+PNG:
+
+![Test_Datei_PNG](/images/laser-gravierer/circle00C.png)
+
+##### Test 1
+
+- Holz:
+  - Material: Lindenholz
+  - Holzstärke 2mm ? (prüfen)
+- InkScape:
+  - Optimale Linien dicke in InkScape: 0,3mm - 0,4mm
+- Drucker:
+  - Auflösung 4k
+  - Laser Stärke: 25%
+  - Laser Tiefe: 80%
+
+0,3 musste man leicht drücken und raus brechen hatte aber keine Brandspuren. bei 0,4 gab es leichte Brandspuren
+
+![test_1_ergebnis](/images/laser-gravierer/test_ergebnis_1.jpg)

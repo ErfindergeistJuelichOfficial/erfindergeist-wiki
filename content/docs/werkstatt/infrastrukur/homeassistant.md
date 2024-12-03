@@ -20,7 +20,10 @@ Bitte beim Vorstand melden
 
 ## Verwendung
 
+- Temperaturmessung
 - Überwachung
+  - Raum
+  - Geräte
 - Überträgt Informationen an Discord
 
 ## Hardware
