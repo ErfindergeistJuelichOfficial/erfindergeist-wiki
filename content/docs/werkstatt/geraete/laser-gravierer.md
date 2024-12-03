@@ -80,7 +80,7 @@ Zum testen wurde folgende Datei verwendet:
 <img src="/images/laser-gravierer/circle00C.svg" width="100%" alt="Test Datei SVG">
 
 - PNG: <br>
-<img src="/images/laser-gravierer/circle00C.png" width="100%" alt="Test Datei PNG>
+<img src="/images/laser-gravierer/circle00C.png" width="100%" alt="Test Datei PNG">
 
 ##### Test 1
 
