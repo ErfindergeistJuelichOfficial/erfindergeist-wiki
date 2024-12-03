@@ -62,7 +62,7 @@ jobs:
   deploy-test:
     runs-on: ubuntu-latest
     needs: build
-    if: contains('feature', github.ref)
+    if: contains(github.head_ref, 'feature')
     steps:
       - name: Upload to wiki-test.erfindergeist.org
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
