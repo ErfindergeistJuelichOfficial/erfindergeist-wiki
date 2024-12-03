@@ -53,10 +53,15 @@ jobs:
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Upload artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          path: ./public
+
 
   # Deployment jobs
   deploy-test:
@@ -71,7 +76,7 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftps
-          local-dir: ./
+          local-dir: ./public/
           dangerous-clean-slate: true
           exclude: |
             **/.git*
