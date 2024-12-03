@@ -44,7 +44,7 @@ Der Drucker ist nur via Bluetooth nutzbar. Am einfachsten ist die Smartphone Sof
 - Der Filter muss durch drücken des Plus-Buttons aktiviert werden. Die Stärke muss selber angepasst werden
 - während Pausen kann man durch gedrückt halten der Minus-Taste für 5sec, den Filter ausschalten
 
-## Stilllegung
+## Ausschalten
 
 Einfach beide Netz-Stecker ziehen.
 
@@ -55,6 +55,17 @@ Einfach beide Netz-Stecker ziehen.
 - Danach soll man eine Auflösung wählen. Beim testen viel auf, je höher die Auflösung je tiefer geht der Laser.
 - Im Folge Screen kann man das Material wählen. Was Dazu führt das Stärke und tiefe automatisch eingestellt werden.
 - Ab hier muss man sich an die perfekte einstellung ran tasten.
+- 
+
+## InkScape
+
+Einstellungen zum Schneiden:
+
+- Objekte:
+  - Fill: "no paint" ![InkScape1](/images/laser-gravierer/test_1_inkScape_01.png)
+  - Stroke paint: "black" ![InkScape2](/images/laser-gravierer/test_1_inkScape_02.png)
+  - Stroke style: "0,4mm, solid line" ![InkScape3](/images/laser-gravierer/test_1_inkScape_03.png)
+- als PNG mit 300 DPI exportieren
 
 ## Tests
 
@@ -64,17 +75,19 @@ Da keine geeigneten einstellungen zum schneiden gefunden wurden, wurden tests du
 
 #### Test Datei
 
+Zum testen wurde folgende Datei verwendet:
+
 ![Test_Datei_SVG](/images/laser-gravierer/circle00C.svg)
 ![Test_Datei_PNG](/images/laser-gravierer/circle00C.png)
 
 Man kann mit InkScape SVG Dateien erstellen und diese als PNG exportieren und in die Software von LaserPecker importieren.
 hier bei sollte darauf geachtet werden das beim export 300DPI gewählt wird. folgende texte beiehen sich auch 300DPI PNG Dateien.
 
-##### Test 1 
+##### Test 1
 
 - Holz:
   - Material: Lindenholz
-  - Holzstärke xxx
+  - Holzstärke 2mm ? (prüfen)
 - InkScape:
   - Optimale Linien dicke in InkScape: 0,3mm - 0,4mm
 - Drucker:
@@ -83,8 +96,3 @@ hier bei sollte darauf geachtet werden das beim export 300DPI gewählt wird. fol
   - Laser Tiefe: 80%
 
 0,3 musste man leicht drücken und raus brechen hatte aber keine Brandspuren. bei 0,4 gab es leichte Brandspuren
-
-![InkScape1](/images/laser-gravierer/test_1_inkScape_01.png)
-![InkScape2](/images/laser-gravierer/test_1_inkScape_02.png)
-![InkScape3](/images/laser-gravierer/test_1_inkScape_03.png)
-
