@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - "main"
-      - "feature/*"
+      - "feature/**"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -72,6 +72,11 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftps
           local-dir: ./
+          dangerous-clean-slate: true
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/.github*/**
 
   deploy-prod:
     environment:
