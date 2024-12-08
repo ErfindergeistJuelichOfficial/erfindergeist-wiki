@@ -1,3 +1,13 @@
+---
+title: "Vereinssatzung"
+weight: 1
+# bookFlatSection: false
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
 # Vereinssatzung
 
 dies ist eine test Seite um zu evaluieren ob markdown gewissen Anforderungen entspricht.
@@ -14,21 +24,15 @@ Der Satzungszweck wird verwirklicht insbesondere durch die Förderung der Forsch
 
 Um den satzungsgemäßen Zweck zu erreichen, bietet der Verein folgendes:
 
-Allein oder im Austausch mit Anderen, kreative Projekte zu bearbeiten und bietet vereinfachten Zugang zu Werkzeugen, Maschinen, Informationen und Anleitungen.
+1. Allein oder im Austausch mit Anderen, kreative Projekte zu bearbeiten und bietet vereinfachten Zugang zu Werkzeugen, Maschinen, Informationen und Anleitungen.
+2. Der Verein bietet ein offenes Forum für Technik-Interessierte und Gleichgesinnte mit und ohne eigene Ideen und regt zur Mitarbeit an.  
+3. Der Verein legt sein Augenmerk auf Wissensvermittlung durch:  
 
-Der Verein bietet ein offenes Forum für Technik-Interessierte und Gleichgesinnte mit und ohne eigene Ideen und regt zur Mitarbeit an.  
-
-Der Verein legt sein Augenmerk auf Wissensvermittlung durch:  
-
-Veranstaltung von Workshops zu Themen der Kunst, Handarbeit, und Wissenschaft
-
-Veranstaltung von Schulungen (eigene Mitglieder und externe Dozenten)  
-
-Veranstaltung von Projektarbeiten
-
-Kooperationen mit Bildungsträgern (Schulen, Hochschulen)  
-
-Unterstützung bei eigenen Projekten durch Hilfestellung bei technischen und fachlichen Fragen
+- Veranstaltung von Workshops zu Themen der Kunst, Handarbeit, und Wissenschaft
+- Veranstaltung von Schulungen (eigene Mitglieder und externe Dozenten)  
+- Veranstaltung von Projektarbeiten
+- Kooperationen mit Bildungsträgern (Schulen, Hochschulen)  
+- Unterstützung bei eigenen Projekten durch Hilfestellung bei technischen und fachlichen Fragen
 
 ## §3 Gemeinnützigkeit und Selbstlosigkeit
 
