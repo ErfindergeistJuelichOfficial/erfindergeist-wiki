@@ -26,7 +26,7 @@ Solltest Du KEIN SEPA-Lastschriftmandat beigelegt haben sende bitte dein Mitglie
 ## Kommunikation
 
 Wir Kommunizieren hauptsächlich via Discord. Discord ist ein Chat Programm:
-[Discord]<https://discord.erfindergeist.org/>
+<https://discord.erfindergeist.org/>
 
 ## Dokumente
 
@@ -40,27 +40,27 @@ Benefits von M365:
 ## Werkstatt Zutritt
 
 Zugriff zur Werkstatt erfolgt via
-[Nuki_App]<https://nuki.io/de/app/>
+<https://nuki.io/de/app/>
 
 Kann bei einem Persönlichen treffen gerne eingerichtet werden.
 
 ## Termine
 
 Termine findet man unter:
-[Veranstaltungen]<https://erfindergeist.org/veranstaltungen/>
+<https://erfindergeist.org/veranstaltungen/>
 
 Bei folgenden Terminen werden immer aktive Leute gesucht:
 
 - Workshop gestalten und abhalten
 - Öffnung der Offene Werkstatt (2-4h)
-- Helfen beim Repair Café (wir brauchen Reperateure aber auch Leute am Empfang)
+- Helfen beim Repair Café (wir brauchen Reparateure aber auch Leute am Empfang)
 
 ## Aufgaben
 
 Hier kann man kleinere Aufgaben finden welche den Verein voran bringen:
 
 - Aufgaben Board in der Werkstatt.
-- [GitHub-ToDo]<https://github.com/orgs/ErfindergeistJuelichOfficial/projects/2>
+- <https://github.com/orgs/ErfindergeistJuelichOfficial/projects/2>
 
 ### Weitere Aufgaben
 
@@ -86,4 +86,4 @@ Wir laden via:
 
 Kontakt zum Vorstand via:
 
-- E-Mail: [Vorstand]<vorstand@erfindergeist.org>
+- E-Mail: <vorstand@erfindergeist.org>
