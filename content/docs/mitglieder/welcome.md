@@ -62,6 +62,13 @@ Hier kann man kleinere Aufgaben finden welche den Verein voran bringen:
 - Aufgaben Board in der Werkstatt.
 - [GitHub-ToDo]<https://github.com/orgs/ErfindergeistJuelichOfficial/projects/2>
 
+### Weitere Aufgaben
+
+- Webseiten pflege
+- Influence (Marketing)
+- Erstelle Dokumentation (Maschinen, Geräte)
+- Werkstatt Säubern
+
 ## Plenum
 
 Wir nutzen Plenen zum persönlichen Treffen und Planung von Veranstaltungen. Aktuell ist der Zyklus alle 3 Monate.
