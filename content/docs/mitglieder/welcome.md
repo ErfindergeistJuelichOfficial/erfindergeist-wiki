@@ -1,5 +1,5 @@
 ---
-title: "Willkommen neues Mitglied"
+title: "Willkommen"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -8,6 +8,8 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
+
+# Willkommen im Verein
 
 Hallo {Name},
 
