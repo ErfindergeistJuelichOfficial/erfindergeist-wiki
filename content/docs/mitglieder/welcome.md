@@ -1,5 +1,5 @@
 ---
-title: "Mitglied Willkommen"
+title: "Willkommen neues Mitglied"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
