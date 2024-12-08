@@ -20,9 +20,9 @@ Deine Mitgliedsnummer lautet: {Mitgliedsnummer}
 
 Solltest Du KEIN SEPA-Lastschriftmandat beigelegt haben sende bitte dein Mitgliedsbeitrag an:
 
-- Kontoinhaberin: Erfindergeist Jülich e.V.
-- IBAN: DE20 3955 0110 1201 5533 00
-- BIC: SDUEDE33XXX
+- Kontoinhaberin: Erfindergeist Jülich e.V.
+- IBAN: DE20 3955 0110 1201 5533 00
+- BIC: SDUEDE33XXX
 - Verwendungszweck: {Mitgliedsnummer}
 
 ## Kommunikation
