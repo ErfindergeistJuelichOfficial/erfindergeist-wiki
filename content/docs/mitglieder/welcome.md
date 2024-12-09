@@ -18,7 +18,7 @@ Deine Mitgliedsnummer lautet: {Mitgliedsnummer}
 
 ## SEPA Hinweis
 
-Solltest Du KEIN SEPA-Lastschriftmandat beigelegt haben sende bitte dein Mitgliedsbeitrag an:
+Solltest Du KEIN SEPA-Lastschriftmandat beigelegt haben, sende bitte deinen Mitgliedsbeitrag an:
 
 - Kontoinhaberin: Erfindergeist Jülich e.V.
 - IBAN: DE20 3955 0110 1201 5533 00
@@ -27,16 +27,16 @@ Solltest Du KEIN SEPA-Lastschriftmandat beigelegt haben sende bitte dein Mitglie
 
 ## Kommunikation
 
-Wir Kommunizieren hauptsächlich via Discord. Discord ist ein Chat Programm:
+Wir Kommunizieren hauptsächlich via Discord, einer Chat-Platform:
 <https://discord.erfindergeist.org/>
 
 ## Dokumente
 
-Unsere Dokumente liegen in Microsoft365. Wenn wir uns Persönlich treffen, lege ich dir gerne einen Account dort an.
-Benefits von M365:
+Unsere Dokumente liegen in Microsoft365. Wenn wir uns persönlich treffen, lege ich dir gerne einen Account dort an.
+Vorteile von M365:
 
-- persönliche Vereins E-Mail-Adresse (für Vereins aufgaben)
-- wer will kann bei <kontakt@erfindergeist.org> mithelfen (also bei Kontakt anfragen)
+- Persönliche Vereins-E-Mail-Adresse (für Vereinsaufgaben)
+- Wer will kann bei <kontakt@erfindergeist.org> mithelfen (also bei Kontaktanfragen)
 - Dort liegen alle unsere Dateien (Fotos, Finanzen, Präsentationen, etc...)
 
 ## Werkstatt Zutritt
@@ -44,36 +44,36 @@ Benefits von M365:
 Zugriff zur Werkstatt erfolgt via
 <https://nuki.io/de/app/>
 
-Kann bei einem Persönlichen treffen gerne eingerichtet werden.
+Kann bei einem persönlichen treffen gerne eingerichtet werden.
 
 ## Termine
 
-Termine findet man unter:
+Termine findest du unter:
 <https://erfindergeist.org/veranstaltungen/>
 
-Bei folgenden Terminen werden immer aktive Leute gesucht:
+Bei folgenden Aktivitäten werden immer aktive Leute gesucht:
 
 - Workshop gestalten und abhalten
-- Öffnung der Offene Werkstatt (2-4h)
-- Helfen beim Repair Café (wir brauchen Reparateure aber auch Leute am Empfang)
+- Öffnung der Werkstatt (2-4h)
+- Repair Café (wir brauchen Reparateure aber auch Leute am Empfang)
 
 ## Aufgaben
 
-Hier kann man kleinere Aufgaben finden welche den Verein voran bringen:
+Hier kann man kleinere Aufgaben finden, welche den Verein voran bringen:
 
-- Aufgaben Board in der Werkstatt.
+- Aufgabenboard in der Werkstatt.
 - <https://github.com/orgs/ErfindergeistJuelichOfficial/projects/2>
 
 ### Weitere Aufgaben
 
-- Webseiten pflege
+- Webseiten pflegen
 - Influence (Marketing)
-- Erstelle Dokumentation (Maschinen, Geräte)
-- Werkstatt Säubern
+- Erstellen von Dokumentation (Maschinen, Geräte)
+- Werkstatt säubern
 
 ## Plenum
 
-Wir nutzen Plenen zum persönlichen Treffen und Planung von Veranstaltungen. Aktuell ist der Zyklus alle 3 Monate.
+Wir nutzen Plenen zum persönlichen Treffen und zur Planung von Veranstaltungen. Aktuell ist der Zyklus alle 3 Monate.
 
 ## Mitgliederversammlung
 
@@ -89,3 +89,7 @@ Wir laden via:
 Kontakt zum Vorstand via:
 
 - E-Mail: <vorstand@erfindergeist.org>
+
+<!-- ## Satzung
+
+Unsere Satzung findest du hier: INSERT LINK-->
