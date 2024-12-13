@@ -14,11 +14,11 @@ weight: 1
 - Öffnungszeiten: der Raum darf mit ausnahme von besonderen Veranstaltungen, Von Montag bis Sonntag von 7:00 bis 22:00 Uhr genutzt werden
 Außerhalb dieser Zeiten sind die Räume geschlossen zu halten. Ausnahmen können beim Vorstand beantragt werden (Alarmanlage)
 - Alle Nutzer*innen müssen vor Nutzung der Werkzeuge eine Einweisung erhalten und eine Einweisungsbestätigung und Haftungsausschluss unterzeichnen
-- Jugendliche ab 12 Jahren dürfen nur mit vorheriger Einverständniserklärung der Eltern/Erziehungsberechtigten teilnehmen; diese muss an den Mitarbeiter übergeben worden sein
+- Jugendliche ab 12 Jahren dürfen nur mit vorheriger Einverständniserklärung der Eltern/Erziehungsberechtigten teilnehmen
 - Kinder unter 12 Jahren dürfen nur unter Aufsicht ihrer Eltern oder Erziehungsberechtigten in der Werkstatt arbeiten
 - Es muss stets darauf geachtet werden, dass die Nutzer*innen persönliche Schutzvorkehrungen getroffen haben:
   - Bei Arbeiten an Maschinen eng anliegende Kleidung tragen; Schmuckstücke (z.B. lange Ketten, Armschmuck, Uhren), Krawatten und Schals dürfen nicht getragen werden
-  - Schutzbrille tragen, insbesondere beim Arbeiten mit Handmaschinen über Kopf 
+  - Schutzbrille tragen, insbesondere beim Arbeiten mit Handmaschinen über Kopf
   - Tragen von Gehörschutz an/mit Maschinen zum
     - Sägen
     - Hobeln
