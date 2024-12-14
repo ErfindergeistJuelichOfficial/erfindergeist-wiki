@@ -35,3 +35,5 @@ Außerhalb dieser Zeiten sind die Räume geschlossen zu halten. Ausnahmen könne
 - Rauchen oder offenes Feuer sind in der Werkstatt verboten
 - Notfallnummer: 112
 - Für das Abschließen des Raumes ist das jeweils letzte Mitglied welches den Raum verlassen möchte, verantwortlich. Ebenso für das Ausschalten der Beleuchtung und das Schließen der Fenster
+- Veränderungen im Netzwerkschrank nur nach Absprache mit dem Vorstand
+- Veränderungen an aufgebauten Schränken, neue Löscher in Wände, nur nach Absprache mit dem Vorstand
