@@ -34,6 +34,8 @@ Der Drucker ist nur via Bluetooth nutzbar. Am einfachsten ist die Smartphone Sof
 
 <https://de.laserpecker.net/pages/app>
 
+Empfehlung: LaserPecker Design Space
+
 ### PC Software
 
 <https://de.laserpecker.net/pages/software>
