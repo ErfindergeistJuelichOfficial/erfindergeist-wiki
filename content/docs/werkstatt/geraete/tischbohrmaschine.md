@@ -10,4 +10,63 @@ weight: 1
 ---
 # Tischbohrmaschine
 
-> :warning: **Warning:** Do not push the big red button.
+## Schutzvorkehrungen
+> **Schutzvorkehrungen:**
+> Schutzbrille tragen
+> ggf. Haarnetz tragen
+> ggf. Enge kleidung expliziet ärmel
+> keine Handschuhe
+
+## Typenschild
+
+- Güde Säulenbohrmaschine Tischbohrmaschine
+- GTB 20/812 B16/MK2 Bohrtisch neigbar / schwenkbar - 55206
+-[Hersteller webseite](https://www.guede.com/tw.php?b=Tischbohrmaschine-GTB-20-812&a=55206)
+
+## Besonderheiten
+
+-	Keilriemenantrieb, Drehzahleinstellung durch Stufen-Riemenscheibe
+-	Keilriemenspannsystem
+-	kugelgelagerte Bohrspindel
+-	Schnellspannbohrfutter 1-16 mm
+-	Spindelaufnahme MK2 und Bohrfutterkegel B16
+-	Bohrtischgröße 260 x 260 mm
+-	Bohrtisch höhenverstellbar, +/- 45° neigbar und 360° schwenkbar
+-	Bohrtisch mit Auffangrinnen für Kühlflüssigkeit
+-	einstellbarer Bohrtiefenanschlag für präzise Bohrungen
+-	Max. Abstand Bohrfutter zum Bohrtisch 270 mm
+-	Max. Abstand Bohrfutter zum Standfuß 520 mm
+-	Standfußgröße 240 x 410 mm mit Langlöcher für Schraubstockbefestigung
+-	klappbarer Späneschutz mit Microschalter
+-	Ein-/Ausschalter mit Nullspannungs-Auslösung
+-	Notaus-Schalter
+
+## Technischedaten
+
+| Beschreibung | Wert |
+|--|--|
+| Netzspannung | 230 V |
+| Frequenz | 50 Hz |
+| Betriebsart | S2 15min |
+| Schutzklasse | I |
+| Motorleistung P1 | 800 W |
+| Spindelhub | 80 mm |
+| Spindeldrehzahl |	210-2500 min-1 |
+| Anzahl der Stufen |	12 |
+| Ausladung | 170 mm |
+| max. Bohrfutterspannweite | 16 mm |
+| min. Bohrfutterspannweite | 1 mm |
+| Bohrfutterkegel | 16 B |
+| Spindelaufnahme | 2 MK |
+| Bohrdurchmesser für Stahl | 20 mm |
+| Bohrdurchmesser für Holz | 20 mm |
+| Breite des Tisches | 260 mm |
+| | Tiefe des Tisches | 260 mm |
+| Fußplatte BxT | 240 x 410 mm |
+| Durchmesser der Säule | 70 mm |
+| Länge des Anschlusskabels | 200 cm |
+| Kabelart | H05RN-F |
+| Lärmwertangabe LWA | 71 dB |
+| Länge | 650 mm |
+| Breite | 340 mm |
+| Höhe | 1.010 mm |
