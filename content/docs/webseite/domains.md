@@ -10,6 +10,6 @@ weight: 1
 ---
 # Domains
 
-- https://erfindergesit.org
+- https://erfindergeist.org
 - https://erfindergeist-juelich.de
 - https://erfindergeist-juelich.com

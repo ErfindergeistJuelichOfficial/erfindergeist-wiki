@@ -12,7 +12,7 @@ weight: 1
 
 ## Disclaimer
 
-Der Drucker ist eine Leihgabe. Bitte Ordentlich damit umgehen!
+Der Drucker ist eine Leihgabe. Bitte ordentlich damit umgehen!
 
 ## Hersteller
 
@@ -24,7 +24,7 @@ Anycubic i3 Mega S
 
 ## PLA einspannen
 
-im Drucker Display folgenden Pfad nachgehen:
+Im Drucker Display folgenden Pfad nachgehen:
 
 - Tools
 - -> (rechts)
@@ -33,7 +33,7 @@ im Drucker Display folgenden Pfad nachgehen:
 
 ## OctoPi
 
-- im Erfindergeist Netzwerk einfach <http://octopi.local/> aufrufen und einlogen
+- im Erfindergeist Netzwerk einfach <http://octopi.local/> aufrufen und einloggen
 - Zugangsdaten sind im Bitwarden hinterlegt
 - Gcode Datei via Drag and Drop reinziehen (eventuell Ordner vorher erstelle) oder via API verbinden
 

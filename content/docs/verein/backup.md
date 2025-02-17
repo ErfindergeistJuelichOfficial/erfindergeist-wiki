@@ -10,7 +10,7 @@ weight: 1
 ---
 # Backup Konzept
 
-Es sollte folgende reihenfolge eingehalten werden weil backups aufeinander aufbauen
+Es sollte folgende Reihenfolge eingehalten werden weil backups aufeinander aufbauen
 
 ## Webseite
 
@@ -44,7 +44,7 @@ gh repo list ErfindergeistJuelichOfficial --json name,url,visibility > out.json
 ## M365
 
 Es werden nur Dokumentenbibliotheken (DocLib)  OHNE Metadaten gesichert!
-folgende DocLibs werden gesichert:
+Folgende DocLibs werden gesichert:
 
 - [Vorstand/Freigegebene%20Dokumente](https://erfindergeist.sharepoint.com/sites/Vorstand/Freigegebene%20Dokumente/)
 - [Vorstand/Mitgliederantrge](https://erfindergeist.sharepoint.com/sites/Vorstand/Mitgliederantrge)
@@ -56,4 +56,4 @@ folgende DocLibs werden gesichert:
 - [Marketing/Freigegebene%20Dokumente](https://erfindergeist.sharepoint.com/sites/Marketing/Freigegebene%20Dokumente)
 - [Repaircafe/Freigegebene%20Dokumente](https://erfindergeist.sharepoint.com/sites/Repaircafe/Freigegebene%20Dokumente)
 
-Der einfachste weg ist die DocLibs via oneDrive immer auf einen windows Rechner zu Synchronisieren (Dateien immer auf diesem Gerät behalten) und davon ein backup erstellen
+Der einfachste Weg ist die DocLibs via oneDrive immer auf einen Windows Rechner zu Synchronisieren (Dateien immer auf diesem Gerät behalten) und davon ein Backup erstellen

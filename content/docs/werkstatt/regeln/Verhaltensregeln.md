@@ -11,7 +11,7 @@ weight: 1
 
 # Verhaltensregeln
 
-- Öffnungszeiten: der Raum darf mit ausnahme von besonderen Veranstaltungen, Von Montag bis Sonntag von 7:00 bis 22:00 Uhr genutzt werden
+- Öffnungszeiten: der Raum darf mit Ausnahme von besonderen Veranstaltungen, Von Montag bis Sonntag von 7:00 bis 22:00 Uhr genutzt werden
 Außerhalb dieser Zeiten sind die Räume geschlossen zu halten. Ausnahmen können beim Vorstand beantragt werden (Alarmanlage)
 - Alle Nutzer*innen müssen vor Nutzung der Werkzeuge eine Einweisung erhalten und eine Einweisungsbestätigung und Haftungsausschluss unterzeichnen
 - Jugendliche ab 12 Jahren dürfen nur mit vorheriger Einverständniserklärung der Eltern/Erziehungsberechtigten teilnehmen
@@ -26,7 +26,7 @@ Außerhalb dieser Zeiten sind die Räume geschlossen zu halten. Ausnahmen könne
     - Schleifen
   - Nur mit geschlossenem und festem Schuhwerk die Werkstatt betreten
   - Lange Haare durch Mützen, Haarnetz o.ä. verdecken
-  - Ggf. Handschuhe verwenden (nicht bei drehende Maschinen)
+  - Ggf. Handschuhe verwenden (nicht bei drehenden Maschinen)
 - Bei Unsicherheiten im Umgang mit den Werkzeugen unbedingt eine*n erfahrenen Nutzer*inn fragen; wenn kein Ansprechpartner vor Ort ist muss mit der Bearbeitung umgehend aufgehört werden
 - Es ist darauf zu achten, dass sich die Nutzer*innen nicht im Gefahrbereich von Maschinen aufhalten (z.B. im Bereich von herausfliegenden Werkstücken)
 - Schutzeinrichtungen und Hilfsmittel müssen griffbereit an den Maschinen bereitgestellt werden

@@ -11,7 +11,7 @@ weight: 1
 
 # Sub Domains
 
-folgend die auflistung aller Subdomains.
+Folgend die Auflistung aller Subdomains.
 
 ## Übersicht
 
@@ -56,7 +56,7 @@ folgend die auflistung aller Subdomains.
 ### Galerie
 
 - [galerie.erfindergeist.org](https://galerie.erfindergeist.org/)
-- hier sind alle Fotos des Verein. Aktuell wird eine 1:1 abbild von m365/marketing/Bilder genutzt
+- Hier sind alle Fotos des Vereins. Aktuell wird ein 1:1 Abbild von m365/marketing/Bilder genutzt
 
 ### Instagram
 
@@ -85,19 +85,19 @@ folgend die auflistung aller Subdomains.
 ### Paypal
 
 - [paypal.erfindergeist.org](https://paypal.erfindergeist.org)
-- Verlinkt auf die Spenden Seite von PayPal um diesen zentral verwalten zu können.
+- Verlinkt auf die Spendenseite von PayPal.
 
 ### Repaircafe
 
 - [repaircafe.erfindergeist.org](https://repaircafe.erfindergeist.org)
 - Projekt Link
-- Verlinkt auf die Repair Café Projekt Seite der Webseite um diesen zentral verwalten zu können.
+- Verlinkt auf die Repair Café Projekt Seite der Webseite.
 
 ### Robotikworkshop
 
 - [robotikworkshop.erfindergeist.org](https://robotikworkshop.erfindergeist.org)
 - Projekt Link
-- Verlinkt auf die Robotik Workshop Projekt Seite der Webseite um diesen zentral verwalten zu können.
+- Verlinkt auf die Robotik Workshop Projekt Seite der Webseite.
 
 ### Share
 
@@ -108,7 +108,7 @@ folgend die auflistung aller Subdomains.
 ### Spielwiese
 
 - [spielwiese.erfindergeist.org](https://spielwiese.erfindergeist.org)
-- Abbild der Webseite um dinge zu testen.
+- Abbild der Webseite um Dinge zu testen.
 
 ### Termine
 
@@ -125,12 +125,12 @@ folgend die auflistung aller Subdomains.
 ### Wiki-test
 
 - [wiki-test.erfindergeist.org](https://wiki-test.erfindergeist.org)
-- alle anderen Branches wie Main werden automatisch hier deployed
+- Alle Branches außer main werden automatisch hier deployed.
 - Code: https://github.com/ErfindergeistJuelichOfficial/wiki
 
 ### Wiki
 
 - [wiki.erfindergeist.org](https://wiki.erfindergeist.org)
-- Verlinkt auf die gerade besuchte Webseite. gehostet in github.
+- Verlinkt auf die gerade besuchte Webseite. Gehostet in github pages.
 - Der Main Branch wird hier automatisch deployed.
 - Code: https://github.com/ErfindergeistJuelichOfficial/wiki

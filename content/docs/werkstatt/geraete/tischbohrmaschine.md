@@ -13,8 +13,8 @@ weight: 1
 ## Schutzvorkehrungen
 
 > - Schutzbrille tragen
-> - ggf. Haarnetz tragen
-> - ggf. Enge kleidung expliziet ärmel
+> - ggf. Haargummi verwenden
+> - ggf. enge Kleidung explizit Ärmel
 > - keine Handschuhe
 
 ## Typenschild
@@ -37,7 +37,7 @@ weight: 1
 - Max. Abstand Bohrfutter zum Bohrtisch 270 mm
 - Max. Abstand Bohrfutter zum Standfuß 520 mm
 - Standfußgröße 240 x 410 mm mit Langlöcher für Schraubstockbefestigung
-- klappbarer Späneschutz mit Microschalter
+- Klappbarer Späneschutz mit Microschalter
 - Ein-/Ausschalter mit Nullspannungs-Auslösung
 - Notaus-Schalter
 

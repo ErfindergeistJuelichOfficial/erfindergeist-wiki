@@ -11,9 +11,9 @@ weight: 1
 
 # Freifunk
 
-Das Freifunk WLAN ist fei nutzbar bei uns in der Werkstatt. Mehr infos unter <https://freifunk.net/>
+Das Freifunk WLAN ist in der Werkstatt frei nutzbar. Mehr Infos unter <https://freifunk.net/>
 
 # Fritz!Box 6490 Cable
 
-Passwort in Bitwarden
-in dem Netz ist die AWO Stadt Jülich e.V. und der Erfindergeist Jülich e.V. zusammen vertreten.
+Passwort in Bitwarden.
+Im Netz ist die AWO Stadt Jülich e.V. und der Erfindergeist Jülich e.V. zusammen vertreten.
