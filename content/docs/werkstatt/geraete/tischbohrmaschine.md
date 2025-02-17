@@ -23,7 +23,7 @@ weight: 1
 
 - Güde Säulenbohrmaschine Tischbohrmaschine
 - GTB 20/812 B16/MK2 Bohrtisch neigbar / schwenkbar - 55206
--[Hersteller webseite](https://www.guede.com/tw.php?b=Tischbohrmaschine-GTB-20-812&a=55206)
+- [Hersteller webseite](https://www.guede.com/tw.php?b=Tischbohrmaschine-GTB-20-812&a=55206)
 
 ## Besonderheiten
 
