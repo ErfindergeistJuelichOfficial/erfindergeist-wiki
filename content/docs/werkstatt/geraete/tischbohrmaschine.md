@@ -12,8 +12,6 @@ weight: 1
 
 ## Schutzvorkehrungen
 
-> **Schutzvorkehrungen:**
->
 > - Schutzbrille tragen
 > - ggf. Haarnetz tragen
 > - ggf. Enge kleidung expliziet ärmel
