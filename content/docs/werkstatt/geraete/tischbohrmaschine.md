@@ -11,6 +11,7 @@ weight: 1
 # Tischbohrmaschine
 
 ## Schutzvorkehrungen
+
 > **Schutzvorkehrungen:**
 > Schutzbrille tragen
 > ggf. Haarnetz tragen
