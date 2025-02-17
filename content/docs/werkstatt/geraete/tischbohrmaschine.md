@@ -26,23 +26,23 @@ weight: 1
 
 ## Besonderheiten
 
--	Keilriemenantrieb, Drehzahleinstellung durch Stufen-Riemenscheibe
--	Keilriemenspannsystem
--	kugelgelagerte Bohrspindel
--	Schnellspannbohrfutter 1-16 mm
--	Spindelaufnahme MK2 und Bohrfutterkegel B16
--	Bohrtischgröße 260 x 260 mm
--	Bohrtisch höhenverstellbar, +/- 45° neigbar und 360° schwenkbar
--	Bohrtisch mit Auffangrinnen für Kühlflüssigkeit
--	einstellbarer Bohrtiefenanschlag für präzise Bohrungen
--	Max. Abstand Bohrfutter zum Bohrtisch 270 mm
--	Max. Abstand Bohrfutter zum Standfuß 520 mm
--	Standfußgröße 240 x 410 mm mit Langlöcher für Schraubstockbefestigung
--	klappbarer Späneschutz mit Microschalter
--	Ein-/Ausschalter mit Nullspannungs-Auslösung
--	Notaus-Schalter
+- Keilriemenantrieb, Drehzahleinstellung durch Stufen-Riemenscheibe
+- Keilriemenspannsystem
+- kugelgelagerte Bohrspindel
+- Schnellspannbohrfutter 1-16 mm
+- Spindelaufnahme MK2 und Bohrfutterkegel B16
+- Bohrtischgröße 260 x 260 mm
+- Bohrtisch höhenverstellbar, +/- 45° neigbar und 360° schwenkbar
+- Bohrtisch mit Auffangrinnen für Kühlflüssigkeit
+- einstellbarer Bohrtiefenanschlag für präzise Bohrungen
+- Max. Abstand Bohrfutter zum Bohrtisch 270 mm
+- Max. Abstand Bohrfutter zum Standfuß 520 mm
+- Standfußgröße 240 x 410 mm mit Langlöcher für Schraubstockbefestigung
+- klappbarer Späneschutz mit Microschalter
+- Ein-/Ausschalter mit Nullspannungs-Auslösung
+- Notaus-Schalter
 
-## Technischedaten
+## Technische Daten
 
 | Beschreibung | Wert |
 |--|--|
@@ -52,8 +52,8 @@ weight: 1
 | Schutzklasse | I |
 | Motorleistung P1 | 800 W |
 | Spindelhub | 80 mm |
-| Spindeldrehzahl |	210-2500 min-1 |
-| Anzahl der Stufen |	12 |
+| Spindeldrehzahl | 210-2500 min-1 |
+| Anzahl der Stufen | 12 |
 | Ausladung | 170 mm |
 | max. Bohrfutterspannweite | 16 mm |
 | min. Bohrfutterspannweite | 1 mm |
@@ -62,7 +62,7 @@ weight: 1
 | Bohrdurchmesser für Stahl | 20 mm |
 | Bohrdurchmesser für Holz | 20 mm |
 | Breite des Tisches | 260 mm |
-| | Tiefe des Tisches | 260 mm |
+| Tiefe des Tisches | 260 mm |
 | Fußplatte BxT | 240 x 410 mm |
 | Durchmesser der Säule | 70 mm |
 | Länge des Anschlusskabels | 200 cm |
