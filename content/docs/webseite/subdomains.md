@@ -1,5 +1,5 @@
 ---
-title: "SubDomains"
+title: "Sub Domains"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -8,7 +8,10 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
-# Sub Domains Übersicht
+
+folgend die auflistung aller Subdomains.
+
+## Übersicht
 
 - [ci.erfindergeist.org](ci.erfindergeist.org)
 - [discord.erfindergeist.org](discord.erfindergeist.org)
@@ -59,7 +62,7 @@ hier sind alle Fotos des Verein. Aktuell wird eine 1:1 abbild von m365/marketing
 Social Link
 Verlinkt auf die Instagram Seite des Vereins um diesen zentral verwalten zu können.
 
-## Kreativ-tag
+### Kreativ-tag
 
 [kreativ-tag.erfindergeist.org](kreativ-tag.erfindergeist.org)
 Projekt Link
