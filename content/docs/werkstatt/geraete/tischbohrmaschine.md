@@ -13,10 +13,11 @@ weight: 1
 ## Schutzvorkehrungen
 
 > **Schutzvorkehrungen:**
-> Schutzbrille tragen
-> ggf. Haarnetz tragen
-> ggf. Enge kleidung expliziet ärmel
-> keine Handschuhe
+>
+> - Schutzbrille tragen
+> - ggf. Haarnetz tragen
+> - ggf. Enge kleidung expliziet ärmel
+> - keine Handschuhe
 
 ## Typenschild
 
