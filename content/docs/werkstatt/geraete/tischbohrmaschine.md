@@ -17,29 +17,15 @@ weight: 1
 > - ggf. enge Kleidung explizit Ärmel
 > - keine Handschuhe
 
-## Typenschild
+## Bezeichnung
 
 - Güde Säulenbohrmaschine Tischbohrmaschine
 - GTB 20/812 B16/MK2 Bohrtisch neigbar / schwenkbar - 55206
-- [Hersteller webseite](https://www.guede.com/tw.php?b=Tischbohrmaschine-GTB-20-812&a=55206)
+- [Produkt Webseite](https://www.guede.com/tw.php?b=Tischbohrmaschine-GTB-20-812&a=55206)
 
-## Besonderheiten
+## Einschaltung
 
-- Keilriemenantrieb, Drehzahleinstellung durch Stufen-Riemenscheibe
-- Keilriemenspannsystem
-- kugelgelagerte Bohrspindel
-- Schnellspannbohrfutter 1-16 mm
-- Spindelaufnahme MK2 und Bohrfutterkegel B16
-- Bohrtischgröße 260 x 260 mm
-- Bohrtisch höhenverstellbar, +/- 45° neigbar und 360° schwenkbar
-- Bohrtisch mit Auffangrinnen für Kühlflüssigkeit
-- einstellbarer Bohrtiefenanschlag für präzise Bohrungen
-- Max. Abstand Bohrfutter zum Bohrtisch 270 mm
-- Max. Abstand Bohrfutter zum Standfuß 520 mm
-- Standfußgröße 240 x 410 mm mit Langlöcher für Schraubstockbefestigung
-- Klappbarer Späneschutz mit Microschalter
-- Ein-/Ausschalter mit Nullspannungs-Auslösung
-- Notaus-Schalter
+## Ausschaltung
 
 ## Technische Daten
 
@@ -70,3 +56,25 @@ weight: 1
 | Länge | 650 mm |
 | Breite | 340 mm |
 | Höhe | 1.010 mm |
+
+## Besonderheiten
+
+- Keilriemenantrieb, Drehzahleinstellung durch Stufen-Riemenscheibe
+- Keilriemenspannsystem
+- kugelgelagerte Bohrspindel
+- Schnellspannbohrfutter 1-16 mm
+- Spindelaufnahme MK2 und Bohrfutterkegel B16
+- Bohrtischgröße 260 x 260 mm
+- Bohrtisch höhenverstellbar, +/- 45° neigbar und 360° schwenkbar
+- Bohrtisch mit Auffangrinnen für Kühlflüssigkeit
+- einstellbarer Bohrtiefenanschlag für präzise Bohrungen
+- Max. Abstand Bohrfutter zum Bohrtisch 270 mm
+- Max. Abstand Bohrfutter zum Standfuß 520 mm
+- Standfußgröße 240 x 410 mm mit Langlöcher für Schraubstockbefestigung
+- Klappbarer Späneschutz mit Microschalter
+[text](tischbohrmaschine.md)- Ein-/Ausschalter mit Nullspannungs-Auslösung
+- Notaus-Schalter
+
+## Einweisung Dokumente
+
+TODO

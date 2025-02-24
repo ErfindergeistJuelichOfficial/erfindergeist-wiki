@@ -10,7 +10,26 @@ weight: 1
 ---
 # Schneideplotter
 
-## Einstellungen am Gerät
+## Schutzvorkehrungen
+
+TODO
+
+## Bezeichnung
+
+TODO
+
+## Einschaltung
+
+Stecker einstecken
+
+## Ausschaltung
+
+Stecker ziehen
+
+## Bedienungsanleitung
+
+### Einstellungen am Gerät
+
 Zuerst wird die Folie eingelegt. Dazu die beiden Rollen über die Hebel anheben, die
 Folie einlegen und ausrichten.
 
@@ -29,7 +48,8 @@ Wenn der Kopf und die Folie ausgerichtet sind, kann man den Ursprung über den K
 
 Dann kann über den Knopf `Setting` die Geschwindigkeit mit den rechts/links Knöpfen und der Druck über die hoch/runter Knöpfe eingestellt werden. Als gute Starteinstellung empfiehlt sich 130 mm/s Geschwindigkeit und 300g Druck.
 
-## Ansteuerung über Inkscape
+### Ansteuerung über Inkscape
+
 Die Software [Inkscape](https://inkscape.org/de/) bietet native Unterstützung für Schneideplotter.
 
 Dafür wird das Objekt zuerst in Inkscape modelliert oder importiert.
@@ -43,7 +63,7 @@ Hier muss der richtige Port ausgewählt werden. In Linux kann mit `dmesg` heraus
 
 ![Anwenden](/images/schneideplotter/apply.png)
 
-## Prozess starten
+### Prozess starten
 
 Den Rest der Einstellungen muss eigentlich nicht geändert werden. Nun kann über `Apply` der Schneideplotter gestartet werden.
 

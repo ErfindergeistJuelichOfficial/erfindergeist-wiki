@@ -10,13 +10,14 @@ weight: 1
 ---
 # Laser Gravierer
 
-## Disclaimer
-
-Der Gravierer ist eine Leihgabe. Bitte ordentlich damit umgehen!
+> - Laser-Schutz-Brille anziehen
+> - Laser-Schutz-Gehäuse verwenden falls möglich
+> - Personen ohne Laser-Schutz-Brille aus dem Raum verweisen
 
 ## Bezeichnung
 
-[Laser Pecker LP4](https://de.laserpecker.net/products/laserpecker-4)
+- Laser Pecker LP4
+[Produkt Webseite](https://de.laserpecker.net/products/laserpecker-4)
 
 ## Zubehör
 
@@ -26,7 +27,7 @@ Der Gravierer ist eine Leihgabe. Bitte ordentlich damit umgehen!
 - [Luftreiniger](https://de.laserpecker.net/products/laserpecker-air-purifier)
 - 2x Schutzbrille
 
-## Software
+### Software
 
 Der Drucker ist nur via Bluetooth nutzbar. Am einfachsten ist die Smartphone Software zu nutzen. PC Software läuft nur auf Windows oder Mac und wurde noch nicht getestet. im Zubehör liegt eine Bluetooth Dongle für PC-Systeme ohne Bluetooth
 
@@ -40,17 +41,19 @@ Empfehlung: LaserPecker Design Space
 
 <https://de.laserpecker.net/pages/software>
 
-## Inbetriebnahmen
+## Einschaltung
 
 - Stromkabel von Drucker und Filter einstecken
 - Der Filter muss durch drücken des Plus-Buttons aktiviert werden. Die Stärke muss selber angepasst werden
 - während Pausen kann man durch gedrückt halten der Minus-Taste für 5sec, den Filter ausschalten
 
-## Ausschalten
+## Ausschaltung
 
 - Einfach beide Netz-Stecker ziehen.
 
-## Verwendung
+## Bedienungsanleitung
+
+### LaserPecker Design Space
 
 - Bild wählen und auf Vorschau drücken.
 - In der Vorschau kann man das zu bedruckende Werkstück ausrichten oder das Bild in der App drehen bzw. die Größe ändern
@@ -58,7 +61,7 @@ Empfehlung: LaserPecker Design Space
 - Im Folge Screen kann man das Material wählen. Was Dazu führt das Stärke und tiefe automatisch eingestellt werden.
 - Ab hier muss man sich an die perfekte einstellung ran tasten.
 
-## InkScape
+### InkScape
 
 folgend optimale Einstellungen zum Schneiden:
 
@@ -68,13 +71,13 @@ folgend optimale Einstellungen zum Schneiden:
   - Stroke style: "0,4mm, solid line" ![InkScape3](/images/laser-gravierer/test_1_inkScape_03.png)
 - als PNG mit 300 DPI exportieren
 
-## Tests
+### Tests
 
-### Schneiden
+#### Schneiden
 
 Da keine geeigneten einstellungen zum schneiden gefunden wurden, wurden tests durchgeführt. folgend dokumentiert
 
-#### Test Datei
+##### Test Datei
 
 Zum testen wurde folgende Datei verwendet:
 
@@ -86,7 +89,7 @@ PNG:
 
 ![Test_Datei_PNG](/images/laser-gravierer/circle00C.png)
 
-##### Test 1
+###### Test 1
 
 - Holz:
   - Material: Lindenholz
@@ -101,3 +104,7 @@ PNG:
 0,3 musste man leicht drücken und raus brechen hatte aber keine Brandspuren. bei 0,4 gab es leichte Brandspuren
 
 ![test_1_ergebnis](/images/laser-gravierer/test_ergebnis_1.jpg)
+
+## Einweisung Dokumente
+
+TODO

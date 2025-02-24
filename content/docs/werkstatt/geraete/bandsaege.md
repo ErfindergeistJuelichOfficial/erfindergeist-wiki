@@ -10,17 +10,30 @@ weight: 1
 ---
 # Bandsäge
 
-## Hersteller
+## Schutzvorkehrungen
 
-Metabo BAS 260 Swift
+> - Gehörschutz
+> - Werkstück nicht mit der Hand einschieben, Hilfsmittel verwenden
 
-## Ersatzteile
+## Bezeichnung
 
-Antriebsriemen Metabo 344260420
+- Metabo BAS 260 Swift
+- [Bedienungsanleitung](https://www.metabo-service.com/de/manuals?searchTerm=0090025100)
 
-## Anleitungen
+## Einschaltung
+
+- Kontrollieren ob Sägeblatt ordentlich eingespannt ist
+- Stecker einstecken
+
+## Ausschaltung
+
+- Stecker ziehen
+
+## Bedienungsanleitung
 
 ### Antriebsriemen wechseln
+
+Antriebsriemen Metabo 344260420
 
 - untere Tür öffnen
 - Motor auf rückseite leicht lösen (2x M13) damit antriebsriemen locker ist
@@ -35,3 +48,6 @@ Antriebsriemen Metabo 344260420
 - Motor Schrauben festziehen dabei Antriebsriemen spannen
 - untere Türe schließen
 
+## Einweisung Dokumente
+
+TODO

@@ -10,19 +10,29 @@ weight: 1
 ---
 # 3D-Drucker
 
-## Disclaimer
+## Schutzvorkehrungen
 
-Der Drucker ist eine Leihgabe. Bitte ordentlich damit umgehen!
+> - Achtung einige Teile können heiß werden
+> - Den Raum gut Belüften
 
-## Hersteller
+## Bezeichnung
 
-Anycubic i3 Mega S
+- Anycubic i3 Mega S
+- [Hersteller Webseite](https://www.anycubic.com)
 
-## System einschalten
+## Einschaltung
 
 - Den Drucker, das Licht vom Drucker und der Octopi Raspberry Pi stecken in einer dreier Mehrfachsteckdose. Diese und das LAN-Kabel des Raspberry Pi in den Dosen in der nähe einstecken.
 
-## PLA einspannen
+## Ausschaltung
+
+- Wenn man länger als eine Woche nicht mehr Drucken möchte bitte das PLA entfernen und in die PLA Box legen
+- Octopi in der Web-Oberfläche herunterfahren um eine Beschädigung an der SD-Karte zu vermeiden
+- Netzstecker von der Mehrfachsteckdose und LAN-Kabel herausziehen
+
+## Bedienungsanleitung
+
+### PLA einspannen
 
 Im Drucker Display folgenden Pfad nachgehen:
 
@@ -31,19 +41,16 @@ Im Drucker Display folgenden Pfad nachgehen:
 - Filament
 - Filament In
 
-## OctoPi
+### OctoPi
 
 - im Erfindergeist Netzwerk einfach <http://octopi.local/> aufrufen und einloggen
 - Zugangsdaten sind im Bitwarden hinterlegt
 - Gcode Datei via Drag and Drop reinziehen (eventuell Ordner vorher erstelle) oder via API verbinden
 
-## Slicer Settings
+### Slicer Settings
 
 - Nozzle 0.4mm
 
-## System ausschalten
+## Einweisung Dokumente
 
-- Wenn man länger als eine Woche nicht mehr Drucken möchte bitte das PLA entfernen und in die PLA Box legen
-- Octopi in der Web-Oberfläche herunterfahren um eine Beschädigung an der SD-Karte zu vermeiden
-- Netzstecker von der Mehrfachsteckdose und LAN-Kabel herausziehen
-
+TODO
