@@ -10,15 +10,20 @@ weight: 1
 ---
 # 3D-Drucker
 
+- Anycubic 
+- i3 Mega S
+- interne Bezeichnung `3D-Drucker`
+- [Hersteller Webseite](https://www.anycubic.com)
+
 ## Schutzvorkehrungen
 
 > - Achtung einige Teile können heiß werden
 > - Den Raum gut Belüften
 
-## Bezeichnung
+## Dokumente
 
-- Anycubic i3 Mega S
-- [Hersteller Webseite](https://www.anycubic.com)
+- TODO: Sicherheitsdokumente
+- TODO: Bedienungsanleitung
 
 ## Einschaltung
 

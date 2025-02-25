@@ -10,14 +10,16 @@ weight: 1
 ---
 # Dekupiersäge
 
+- Woodster
+- sd16
+- interne Bezeichnung `Dekupiersäge`
+
 ## Schutzvorkehrungen
 
 > - Schutzbrille tragen
 > - Gehörschutz tragen
 
-## Bezeichnung
-
-- Woodster sd16
+## Dokumente
 
 ## Zubehör
 

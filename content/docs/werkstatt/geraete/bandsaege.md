@@ -10,14 +10,17 @@ weight: 1
 ---
 # Bandsäge
 
+- Metabo
+- BAS 260 Swift
+- interne Bezeichnung `Bandsäge`
+
 ## Schutzvorkehrungen
 
 > - Gehörschutz
 > - Werkstück nicht mit der Hand einschieben, Hilfsmittel verwenden
 
-## Bezeichnung
+## Dokumenten
 
-- Metabo BAS 260 Swift
 - [Bedienungsanleitung](https://www.metabo-service.com/de/manuals?searchTerm=0090025100)
 
 ## Einschaltung
@@ -47,7 +50,3 @@ Antriebsriemen Metabo 344260420
 - Antriebsriemen aufziehen
 - Motor Schrauben festziehen dabei Antriebsriemen spannen
 - untere Türe schließen
-
-## Einweisung Dokumente
-
-TODO

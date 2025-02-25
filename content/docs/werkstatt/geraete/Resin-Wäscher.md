@@ -1,5 +1,5 @@
 ---
-title: "_vorlage_"
+title: "Resin-Wäscher"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -8,13 +8,10 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
-# _Vorlage
+# Resin-Wäscher
 
-- _Hersteller_
-- _Bezeichnung_
-- _Sonstige identifizierungen
-- interne Bezeichnung: _Eindeutige Bezeichnung für Einweisungsbestätigung (string)_ `Vorlage`
-- _Link zum Produkt oder Hersteller_
+- Anycubic
+- Wash&Cure 2.0 mit Zubehör Karton
 
 ## Schutzvorkehrungen
 

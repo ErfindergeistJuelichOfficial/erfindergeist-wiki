@@ -10,14 +10,15 @@ weight: 1
 ---
 # Drucker
 
+- Brother 
+- MFC-J5340DW
+- [Produkt Webseite](https://store.brother.de/catalogs/brothergermany/geraete/tintenstrahl/mfcj/mfcj5340dw)
+
 ## Schutzvorkehrungen
 
 > - keine
 
-## Bezeichnung
-
-- Brother MFC-J5340DW
-- [Produkt Webseite](https://store.brother.de/catalogs/brothergermany/geraete/tintenstrahl/mfcj/mfcj5340dw)
+## Dokumente
 
 ## Einschaltung
 
@@ -35,6 +36,3 @@ Stecker ziehen
 - Kabelgebundene und drahtlose Konnektivität | Mobile App herunterladen:
 - 6,8 cm Touchscreen-Farbdisplay
 - 250 Blatt Papierkapazität | 50 Blatt automatischer Vorlageneinzug (ADF) | Einzelblatteinzug
-
-
-

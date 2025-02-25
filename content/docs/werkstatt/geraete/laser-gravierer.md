@@ -10,14 +10,19 @@ weight: 1
 ---
 # Laser Gravierer
 
+- Laser Pecker
+- LP4
+[Produkt Webseite](https://de.laserpecker.net/products/laserpecker-4)
+
+## Schutzvorkehrungen
+
 > - Laser-Schutz-Brille anziehen
 > - Laser-Schutz-Gehäuse verwenden falls möglich
 > - Personen ohne Laser-Schutz-Brille aus dem Raum verweisen
 
-## Bezeichnung
+## Dokumente
 
-- Laser Pecker LP4
-[Produkt Webseite](https://de.laserpecker.net/products/laserpecker-4)
+TODO
 
 ## Zubehör
 
@@ -26,6 +31,18 @@ weight: 1
 - [Schneidplatte](https://de.laserpecker.net/products/preorder-laserpecker-4-cutting-plate)
 - [Luftreiniger](https://de.laserpecker.net/products/laserpecker-air-purifier)
 - 2x Schutzbrille
+
+## Einschaltung
+
+- Stromkabel von Drucker und Filter einstecken
+- Der Filter muss durch drücken des Plus-Buttons aktiviert werden. Die Stärke muss selber angepasst werden
+- während Pausen kann man durch gedrückt halten der Minus-Taste für 5sec, den Filter ausschalten
+
+## Ausschaltung
+
+- Einfach beide Netz-Stecker ziehen.
+
+## Bedienungsanleitung
 
 ### Software
 
@@ -40,18 +57,6 @@ Empfehlung: LaserPecker Design Space
 ### PC Software
 
 <https://de.laserpecker.net/pages/software>
-
-## Einschaltung
-
-- Stromkabel von Drucker und Filter einstecken
-- Der Filter muss durch drücken des Plus-Buttons aktiviert werden. Die Stärke muss selber angepasst werden
-- während Pausen kann man durch gedrückt halten der Minus-Taste für 5sec, den Filter ausschalten
-
-## Ausschaltung
-
-- Einfach beide Netz-Stecker ziehen.
-
-## Bedienungsanleitung
 
 ### LaserPecker Design Space
 
@@ -105,6 +110,3 @@ PNG:
 
 ![test_1_ergebnis](/images/laser-gravierer/test_ergebnis_1.jpg)
 
-## Einweisung Dokumente
-
-TODO

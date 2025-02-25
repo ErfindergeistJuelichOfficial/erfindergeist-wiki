@@ -10,6 +10,11 @@ weight: 1
 ---
 # Tischbohrmaschine
 
+- Güde
+- Säulenbohrmaschine Tischbohrmaschine
+- GTB 20/812 B16/MK2 Bohrtisch neigbar / schwenkbar - 55206
+- [Produkt Webseite](https://www.guede.com/tw.php?b=Tischbohrmaschine-GTB-20-812&a=55206)
+
 ## Schutzvorkehrungen
 
 > - Schutzbrille tragen
@@ -17,11 +22,9 @@ weight: 1
 > - ggf. enge Kleidung explizit Ärmel
 > - keine Handschuhe
 
-## Bezeichnung
+## Dokumente
 
-- Güde Säulenbohrmaschine Tischbohrmaschine
-- GTB 20/812 B16/MK2 Bohrtisch neigbar / schwenkbar - 55206
-- [Produkt Webseite](https://www.guede.com/tw.php?b=Tischbohrmaschine-GTB-20-812&a=55206)
+TODO: Backup
 
 ## Einschaltung
 
@@ -74,7 +77,3 @@ weight: 1
 - Klappbarer Späneschutz mit Microschalter
 [text](tischbohrmaschine.md)- Ein-/Ausschalter mit Nullspannungs-Auslösung
 - Notaus-Schalter
-
-## Einweisung Dokumente
-
-TODO

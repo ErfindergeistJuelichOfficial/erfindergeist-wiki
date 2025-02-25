@@ -10,11 +10,10 @@ weight: 1
 ---
 # Schneideplotter
 
+- SeikiTech
+- Bezeichnung: TODO
+
 ## Schutzvorkehrungen
-
-TODO
-
-## Bezeichnung
 
 TODO
 
