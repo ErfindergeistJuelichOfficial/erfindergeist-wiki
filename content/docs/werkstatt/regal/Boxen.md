@@ -31,7 +31,7 @@ Folgendes Material wurde dem Verein gespendet und darf frei verwendet werden.
 
 # Spenden-Boxen
 
-Folgendes Material wurde von Privat hinterlegt gestellt. Es wird erwartet das EK in vorm von Spenden an den Verein hinterlegt werden.
+Folgendes Material wurde von Privat hinterlegt. Es wird erwartet das EK in vorm von Spenden an den Verein hinterlegt werden.
 
 - PLA
 - Druck Patronen
