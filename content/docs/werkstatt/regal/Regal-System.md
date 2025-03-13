@@ -23,7 +23,7 @@ weight: 1
 
 # Boxen
 
-- Das Regal wurde so geplannt das am besten Ikea Samla Boxen hineinpassen.
+- Das Regal wurde so geplant das am besten Ikea Samla Boxen hineinpassen.
 - Wir haben ausgemacht das jedes Mitglied eine 11L Box frei platzieren darf.
 - Beschriftung von innen gut lesbar nach außen anbringen.
 - Um Staub zu reduzieren wird drum gebeten alles auf dem Regal in Boxen zu packen.
