@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
----
+
 # Regal-System
 
 - Hersteller: Alfer element system GmbH
@@ -27,8 +27,9 @@ weight: 1
 - Wir haben ausgemacht das jedes Mitglied eine 11L Box frei platzieren darf.
 - Beschriftung von innen gut lesbar nach außen anbringen.
 - Um Staub zu reduzieren wird drum gebeten alles auf dem Regal in Boxen zu packen.
+- Wir freuen ums über jede gespendete Box
 
 |Liter|Maße|Link|
 |--|--|--|
-|11L | 39x28x28 cm | https://www.ikea.com/de/de/p/samla-box-transparent-40102978/ |
-|22L | 39x28x14 cm | https://www.ikea.com/de/de/p/samla-box-transparent-80102976/ |
+|11L | 39x28x14 cm | https://www.ikea.com/de/de/p/samla-box-transparent-40102978/ |
+|22L | 39x28x28 cm | https://www.ikea.com/de/de/p/samla-box-transparent-80102976/ |

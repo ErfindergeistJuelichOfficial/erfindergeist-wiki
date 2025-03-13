@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
----
+
 # Regal
 
 Informationen zu Regeln und bestand im offenen Regal
