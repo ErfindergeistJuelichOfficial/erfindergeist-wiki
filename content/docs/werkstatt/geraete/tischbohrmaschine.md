@@ -75,5 +75,5 @@ TODO: Backup
 - Max. Abstand Bohrfutter zum Standfuß 520 mm
 - Standfußgröße 240 x 410 mm mit Langlöcher für Schraubstockbefestigung
 - Klappbarer Späneschutz mit Microschalter
-[text](tischbohrmaschine.md)- Ein-/Ausschalter mit Nullspannungs-Auslösung
+- Ein-/Ausschalter mit Nullspannungs-Auslösung
 - Notaus-Schalter

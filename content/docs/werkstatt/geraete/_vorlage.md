@@ -23,6 +23,8 @@ _folgend was zu beachten ist, kurzform_
 > - Beispiel: Schutzbrille tragen
 > - Beispiel: ggf. Haargummi verwenden
 
+## Besitzer / Sonstiges
+
 ## Dokumente
 
 - _Bedienungsanleitung_

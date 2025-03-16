@@ -10,13 +10,23 @@ weight: 1
 ---
 # Drucker
 
-- Brother 
+- Brother
 - MFC-J5340DW
 - [Produkt Webseite](https://store.brother.de/catalogs/brothergermany/geraete/tintenstrahl/mfcj/mfcj5340dw)
 
 ## Schutzvorkehrungen
 
 > - keine
+
+## Besitzer / Sonstiges
+
+- Besitzer ist Privat.
+- Patronen und Papier wird Privat nachgekauft. Daher wird erwartet das Ausdrucke bezahlt werden. Die Patronen kosten ca. 67€. Nach aktuellem stand sind 100-150 Drucke möglich.
+- Aktueller richtwert. SW: 20 cent, Farbe 70 cent. Es wird aber auch noch weiter geprüft.
+- Für Maßen Drucke empfehlen wir die Druckangebote in Jülich
+  - [Backhausen](https://www.backhausen-juelich.de/) müsste der nächst gelegene von der Werkstatt sein.
+  - Post-Druck macht keine Privaten Drucke.
+  - Bitte weitere melden, Danke.
 
 ## Dokumente
 
