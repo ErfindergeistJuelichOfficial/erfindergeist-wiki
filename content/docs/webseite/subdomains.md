@@ -9,8 +9,6 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# Sub Domains
-
 Folgend die Auflistung aller Subdomains.
 
 ## Übersicht

@@ -1,5 +1,5 @@
 ---
-title: "Domains"
+title: "Vorstand"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -8,7 +8,3 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
-
-- https://erfindergeist.org
-- https://erfindergeist-juelich.de
-- https://erfindergeist-juelich.com
