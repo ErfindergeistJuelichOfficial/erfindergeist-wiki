@@ -8,7 +8,6 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
-# Backup Konzept
 
 Es sollte folgende Reihenfolge eingehalten werden weil backups aufeinander aufbauen
 
@@ -20,11 +19,7 @@ Das Backup wird nach Erstellung in M365 unter [Vorstand/bckupWebsite](https://er
 
 ## E-Mails
 
-TODO aktuelle keine backups
-
-wichtig wäre
-kontakt@e...org
-vorstand@e...org
+keine Backps. Wichtige Mails bitte in den Ordnern speichern.
 
 ## HomeAssistant
 

@@ -8,7 +8,6 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
-# Tischbohrmaschine
 
 - Güde
 - Säulenbohrmaschine Tischbohrmaschine
