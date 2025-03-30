@@ -22,18 +22,18 @@ Die Schriften sind gekauft und liegen in M365.
 
 ## Logos
 
-![Logo ai](images/ci/Logo.ai)
 ![Logo jpg](/images/ci/Logo.jpg)
 ![Logo2 png](/images/ci/Logo-02.png)
 ![Hintergrund](/images/ci/Hintergrund.png)
 
-in M365 liegen weitere Logos.
+- in M365 liegen weitere Logos. 
+- Das Logo liegt als AI bereit.
 
 ## Farben
 
 ### Hauptfarbe
 
-![Farbe 1](images/ci/color1.png)
+![Farbe 1](/images/ci/color1.png)
 
 Stamp Pad Green
 
@@ -45,7 +45,7 @@ TODO: Farbcode vom Ständer (das RAL kann man nicht in Acryl kaufen)
 
 ### Zweitfarbe
 
-![Farbe 2](images/ci/color2.png)
+![Farbe 2](/images/ci/color2.png)
 
 Signal Gelb
 
@@ -57,7 +57,7 @@ TODO: Farbcode vom Ständer (das RAL kann man nicht in Acryl kaufen)
 
 ### Drittfarbe
 
-![Farbe 3](images/ci/color3.png)
+![Farbe 3](/images/ci/color3.png)
 CSS: #DADADA
 RGB: 218/218/218
 CMYK: 0%/0%/0%/20%
