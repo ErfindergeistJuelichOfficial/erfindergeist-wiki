@@ -33,7 +33,7 @@ Die Schriften sind gekauft und liegen in M365.
 
 ### Hauptfarbe
 
-![Farbe 1](/images/ci/color1.png =x100)
+<img src="/images/ci/color1.png" width="100px" height="100px" alt="color1">
 
 - Name: Stamp Pad Green
 - CSS: #159989
