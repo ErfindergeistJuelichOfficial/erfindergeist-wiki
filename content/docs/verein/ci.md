@@ -22,18 +22,18 @@ Die Schriften sind gekauft und liegen in M365.
 
 ## Logos
 
-![Logo jpg](/images/ci/Logo.jpg)
-![Logo2 png](/images/ci/Logo-02.png)
-![Hintergrund](/images/ci/Hintergrund.png)
+![Logo jpg](/images/ci/Logo.jpg =x250)
+![Logo2 png](/images/ci/Logo-02.png =x250)
+![Hintergrund](/images/ci/Hintergrund.png =x250)
 
-- in M365 liegen weitere Logos. 
+- in M365 liegen weitere Logos.
 - Das Logo liegt als AI bereit.
 
 ## Farben
 
 ### Hauptfarbe
 
-![Farbe 1](/images/ci/color1.png)
+![Farbe 1](/images/ci/color1.png =x100)
 
 - Name: Stamp Pad Green
 - CSS: #159989
@@ -44,7 +44,7 @@ Die Schriften sind gekauft und liegen in M365.
 
 ### Zweitfarbe
 
-![Farbe 2](/images/ci/color2.png)
+![Farbe 2](/images/ci/color2.png =x100)
 
 - Name: Signal Gelb
 - CSS: #F9B338
@@ -55,7 +55,7 @@ Die Schriften sind gekauft und liegen in M365.
 
 ### Drittfarbe
 
-![Farbe 3](/images/ci/color3.png)
+![Farbe 3](/images/ci/color3.png) =x100
 
 - CSS: #DADADA
 - RGB: 218/218/218
