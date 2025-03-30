@@ -22,8 +22,16 @@ Die Schriften sind gekauft und liegen in M365.
 
 ## Logos
 
+### Logo 1
+
 ![Logo jpg](/images/ci/Logo.jpg)
+
+### Logo 2
+
 ![Logo2 png](/images/ci/Logo-02.png)
+
+### Hintergrund
+
 ![Hintergrund](/images/ci/Hintergrund.png)
 
 - in M365 liegen weitere Logos.
