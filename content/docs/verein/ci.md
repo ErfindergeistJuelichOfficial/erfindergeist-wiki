@@ -33,7 +33,11 @@ Die Schriften sind gekauft und liegen in M365.
 
 ### Hauptfarbe
 
-<img src="/images/ci/color1.png" width="100px" height="100px" alt="color1">
+{{ $image := resources.Get "/images/ci/color1.png" }}
+{{ with .Resources.GetMatch "sunset.jpg" }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+{{ end }}
+
 
 - Name: Stamp Pad Green
 - CSS: #159989
