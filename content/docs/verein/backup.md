@@ -19,11 +19,15 @@ Das Backup wird nach Erstellung in M365 unter [Vorstand/bckupWebsite](https://er
 
 ## E-Mails
 
-keine Backps. Wichtige Mails bitte in den Ordnern speichern.
+keine Backups. Wichtige Mails bitte in den Ordnern speichern.
+
+## Bitwarden
+
+Vorerst Manual.
 
 ## HomeAssistant
 
-TODO
+Vorerst Manual.
 
 ## GIT
 
