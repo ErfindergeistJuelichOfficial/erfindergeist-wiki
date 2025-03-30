@@ -22,9 +22,9 @@ Die Schriften sind gekauft und liegen in M365.
 
 ## Logos
 
-![Logo jpg](/images/ci/Logo.jpg =x250)
-![Logo2 png](/images/ci/Logo-02.png =x250)
-![Hintergrund](/images/ci/Hintergrund.png =x250)
+![Logo jpg](/images/ci/Logo.jpg)
+![Logo2 png](/images/ci/Logo-02.png)
+![Hintergrund](/images/ci/Hintergrund.png)
 
 - in M365 liegen weitere Logos.
 - Das Logo liegt als AI bereit.
@@ -33,12 +33,7 @@ Die Schriften sind gekauft und liegen in M365.
 
 ### Hauptfarbe
 
-{{ $image := resources.Get "/images/ci/color1.png" }}
-{{ with .Resources.GetMatch "sunset.jpg" }}
-  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
-{{ end }}
-
-
+- Farbe: ![Farbe 1](/images/ci/color1.png)
 - Name: Stamp Pad Green
 - CSS: #159989
 - RGB: 21/153/137
@@ -48,8 +43,7 @@ Die Schriften sind gekauft und liegen in M365.
 
 ### Zweitfarbe
 
-![Farbe 2](/images/ci/color2.png =x100)
-
+- Farbe: ![Farbe 2](/images/ci/color2.png)
 - Name: Signal Gelb
 - CSS: #F9B338
 - RGB: 249/179/56
@@ -59,8 +53,7 @@ Die Schriften sind gekauft und liegen in M365.
 
 ### Drittfarbe
 
-![Farbe 3](/images/ci/color3.png) =x100
-
+- Farbe: ![Farbe 3](/images/ci/color3.png)
 - CSS: #DADADA
 - RGB: 218/218/218
 - CMYK: 0%/0%/0%/20%
