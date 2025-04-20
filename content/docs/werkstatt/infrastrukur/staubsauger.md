@@ -1,5 +1,5 @@
 ---
-title: "Regal"
+title: "Staubsauger"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -9,6 +9,5 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# Regal
-
-Informationen zu Regeln und bestand im offenen Regal
+- Wir dürfen den AWO Staubsauger mit nutzen, sollen aber bitte auch Beutel besorgen
+- Bezeichnung: Kärcher Fleece filter KFI 487

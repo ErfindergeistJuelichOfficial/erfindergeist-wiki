@@ -1,5 +1,5 @@
 ---
-title: "Boxen"
+title: "Regal"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -8,6 +8,18 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
+
+# System
+
+- Hersteller: Alfer element system GmbH
+- 6x Element System Classic Wandschiene EL 32, Zweilochsystem, 140cm
+- 24x Element System Classic U-Träger EL 32, Zweilochsystem, Länge: 37 cm, Belastbarkeit: 55 kg
+- 12x Regalboden Weiß, 120 x 40 x 1,6 cm, volle Kantenumleimung
+- Fischer Duopower Dübel- & Schraubenbox 6x50 S LD
+- Schienen Befestigung: Profi Depot Spanplattenschraube VZ Ø x L: 4,5 x 70 mm, 200 Stk., Verzinkt, Senkkopf, Torx
+- Regal Befestigung: Profi Depot Spanplattenschraube VZØ x L: 4 x 45 mm, 200 Stk., Verzinkt, Senkkopf, Torx
+- in M365/Mitglieder/Räume/AWO/Regal gibt es ein drawio mit allen Maßen
+- Die Wände wurden mit sehr viel Sand hochgezogen. Daher wurden nur sehr gute Dübel und Schrauben zur Schienen Befestigung verwendet.
 
 # Boxen
 
@@ -22,14 +34,14 @@ weight: 1
 |11L | 39x28x14 cm | https://www.ikea.com/de/de/p/samla-box-transparent-40102978/ |
 |22L | 39x28x28 cm | https://www.ikea.com/de/de/p/samla-box-transparent-80102976/ |
 
-# Free-Boxen
+## Free-Boxen
 
 Folgendes Material wurde dem Verein gespendet und darf frei verwendet werden.
 
 - wd40
 - Balistol
 
-# Spenden-Boxen
+## Spenden-Boxen
 
 Folgendes Material wurde von Privat hinterlegt. Es wird erwartet das EK in vorm von Spenden an den Verein hinterlegt werden.
 
@@ -37,14 +49,14 @@ Folgendes Material wurde von Privat hinterlegt. Es wird erwartet das EK in vorm 
 - Druck Patronen
 - Lindenholz
 
-# Mitglieder-Boxen
+## Mitglieder-Boxen
 
 Wenn ein Name auf der Box steht gehört es jemanden. Bitte nichts klauen von anderen.
 
-# Vereins-Boxen
+## Vereins-Boxen
 
 Vereins Boxen sind markiert. Es sollten dort nur Personen dran gehen die mit dem thema zu tun haben.
 
-# Sonstiege-Boxen
+## Sonstiege-Boxen
 
 Dinge wie Reinigungs-Mittel, Schmiermittel, etc. wurden von Privat zur Verfügung gestellt. Bitte sorgt für Nachschub wenn Ihr es verbraucht.
