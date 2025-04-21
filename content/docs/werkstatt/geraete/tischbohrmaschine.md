@@ -9,6 +9,8 @@ weight: 1
 # bookSearchExclude: false
 ---
 
+# Tischbohrmaschine
+
 - Güde
 - Säulenbohrmaschine Tischbohrmaschine
 - GTB 20/812 B16/MK2 Bohrtisch neigbar / schwenkbar - 55206
@@ -27,7 +29,32 @@ TODO: Backup
 
 ## Einschaltung
 
+- Prüfen ob Netzstecker gezogen ist.
+- Drehzahl einstellen (siehe weiter unten)
+. Netzstecker einstecken
+
 ## Ausschaltung
+
+- Netzstecker ausziehen
+
+## Bedienungsanleitung
+
+TODO Fotos mit beschriftungen
+
+### Drehzahl einstellen
+
+- Netzstecker ausziehen
+- Deckel öffnen
+  - Deckel schraube lösen
+  - eventuell an der Schraube leicht ziehen und Deckel hochheben
+- Motor Arretierung lösen
+- Laut Tabelle im Deckel Die Drehzahl einstellen
+  - Merken: kleine Bohrer - große Drehzahl, große Bohrer - kleine Drehzahl
+- Motor Arretierung feststellen
+- Deckel schließen, Schraube wieder rein drehen
+- Folgend eine Hilfe um die richtige Drehzahl zu finden
+
+![Drehzahltabelle](/images/werkstatt/drehzahltabelle.jpg)
 
 ## Technische Daten
 

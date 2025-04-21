@@ -42,6 +42,8 @@ weight: 1
 |11L | 39x28x14 cm | https://www.ikea.com/de/de/p/samla-box-transparent-40102978/ |
 |22L | 39x28x28 cm | https://www.ikea.com/de/de/p/samla-box-transparent-80102976/ |
 
+Markiert Boxen bitte entsprechend folgenden Bezeichnungen:
+
 ### Free-Boxen
 
 Folgendes Material wurde dem Verein gespendet und darf frei verwendet werden.
@@ -65,10 +67,6 @@ Folgendes Material wurde von Privat hinterlegt. Es wird erwartet das EK in vorm 
 
 Wenn ein Name auf der Box steht gehört es jemanden. Bitte nichts klauen von anderen.
 
-### Vereins-Boxen
-
-Vereins Boxen sind markiert. Es sollten dort nur Personen dran gehen die mit dem Thema zu tun haben.
-
 ### Projekt-Boxen
 
-Diese Boxen sind für Projekte reserviert.
+Diese Boxen sind für Projekte reserviert. Es sollten dort nur Personen dran gehen die mit dem Thema zu tun haben.
