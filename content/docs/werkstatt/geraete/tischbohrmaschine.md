@@ -25,13 +25,13 @@ weight: 1
 
 ## Dokumente
 
-TODO: Backup
+- [Produktinformation](https://www.guede.com/sys/dl/55206_55208_55210_55212_ml.pdf)
+- [Bedienungsanleitung](https://www.guede.com/temp/1745243403/p55206_de.pdf)
+- Backup: M365/Mitglieder/Räume/Awo/Inventar dokus/
 
 ## Einschaltung
 
-- Prüfen ob Netzstecker gezogen ist.
-- Drehzahl einstellen (siehe weiter unten)
-. Netzstecker einstecken
+- Netzstecker einstecken
 
 ## Ausschaltung
 
@@ -39,7 +39,7 @@ TODO: Backup
 
 ## Bedienungsanleitung
 
-TODO Fotos mit beschriftungen
+- TODO: Fotos mit beschriftungen
 
 ### Drehzahl einstellen
 
