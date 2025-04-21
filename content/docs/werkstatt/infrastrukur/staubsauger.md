@@ -9,5 +9,9 @@ weight: 1
 # bookSearchExclude: false
 ---
 
+# Staubsauger
+
+- Hersteller: Kärcher
+- TODO Typ vom Staubsauger herausfinden (konnte kein typenschild finden)
 - Wir dürfen den AWO Staubsauger mit nutzen, sollen aber bitte auch Beutel besorgen
 - Bezeichnung: Kärcher Fleece filter KFI 487

@@ -9,7 +9,9 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# System
+# Regal
+
+## System
 
 - Hersteller: Alfer element system GmbH
 - 6x Element System Classic Wandschiene EL 32, Zweilochsystem, 140cm
@@ -21,7 +23,7 @@ weight: 1
 - in M365/Mitglieder/Räume/AWO/Regal gibt es ein drawio mit allen Maßen
 - Die Wände wurden mit sehr viel Sand hochgezogen. Daher wurden nur sehr gute Dübel und Schrauben zur Schienen Befestigung verwendet.
 
-# Boxen
+## Boxen
 
 - Das Regal wurde so geplant das am besten Ikea Samla Boxen hineinpassen.
 - Wir haben ausgemacht das jedes Mitglied eine 11L oder 22L Box, mit seinem Privaten Material, frei platzieren darf.
@@ -34,14 +36,18 @@ weight: 1
 |11L | 39x28x14 cm | https://www.ikea.com/de/de/p/samla-box-transparent-40102978/ |
 |22L | 39x28x28 cm | https://www.ikea.com/de/de/p/samla-box-transparent-80102976/ |
 
-## Free-Boxen
+### Free-Boxen
 
 Folgendes Material wurde dem Verein gespendet und darf frei verwendet werden.
 
 - wd40
 - Balistol
+- Reinigungs-Mittel
+- Schmiermittel
 
-## Spenden-Boxen
+Bitte sorgt für Nachschub wenn Ihr es verbraucht.
+
+### Spenden-Boxen
 
 Folgendes Material wurde von Privat hinterlegt. Es wird erwartet das EK in vorm von Spenden an den Verein hinterlegt werden.
 
@@ -49,14 +55,14 @@ Folgendes Material wurde von Privat hinterlegt. Es wird erwartet das EK in vorm 
 - Druck Patronen
 - Lindenholz
 
-## Mitglieder-Boxen
+### Mitglieder-Boxen
 
 Wenn ein Name auf der Box steht gehört es jemanden. Bitte nichts klauen von anderen.
 
-## Vereins-Boxen
+### Vereins-Boxen
 
-Vereins Boxen sind markiert. Es sollten dort nur Personen dran gehen die mit dem thema zu tun haben.
+Vereins Boxen sind markiert. Es sollten dort nur Personen dran gehen die mit dem Thema zu tun haben.
 
-## Sonstiege-Boxen
+### Projekt-Boxen
 
-Dinge wie Reinigungs-Mittel, Schmiermittel, etc. wurden von Privat zur Verfügung gestellt. Bitte sorgt für Nachschub wenn Ihr es verbraucht.
+Diese Boxen sind für Projekte reserviert.
