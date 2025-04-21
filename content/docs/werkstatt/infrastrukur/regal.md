@@ -20,8 +20,14 @@ weight: 1
 - Fischer Duopower Dübel- & Schraubenbox 6x50 S LD
 - Schienen Befestigung: Profi Depot Spanplattenschraube VZ Ø x L: 4,5 x 70 mm, 200 Stk., Verzinkt, Senkkopf, Torx
 - Regal Befestigung: Profi Depot Spanplattenschraube VZØ x L: 4 x 45 mm, 200 Stk., Verzinkt, Senkkopf, Torx
-- in M365/Mitglieder/Räume/AWO/Regal gibt es ein drawio mit allen Maßen
 - Die Wände wurden mit sehr viel Sand hochgezogen. Daher wurden nur sehr gute Dübel und Schrauben zur Schienen Befestigung verwendet.
+
+## Aufbau
+
+- Die Boden halter verursachen im hinteren Bereich ca. 6,5 cm verlust.
+- in M365/Mitglieder/Räume/AWO/Regal gibt es folgendes drawio mit Maßen.
+
+![Aufbau Regal](/images/werkstatt/regal.png)
 
 ## Boxen
 
