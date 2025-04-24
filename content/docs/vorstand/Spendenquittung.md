@@ -17,6 +17,7 @@ weight: 1
 - Ausstellen Darf jedes Mitglied des Vorstandes.
 - Nur solange wir Gemeinnützig sind.
 - Aufbewahrungspflicht 10 Jahre.
+- erst Pflicht ab 300€, drunter reicht Kontoauszug zur Dokumentation. Sieht aber schöner aus.
 
 ## Vordruck
 
