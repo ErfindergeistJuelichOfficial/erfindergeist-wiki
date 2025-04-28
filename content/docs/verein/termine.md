@@ -14,12 +14,12 @@ weight: 1
 - können mit dem Verein gmail konto im Goggle Kalender hinterlegt werden.
 - Termine werden auf der Webseite angezeigt.
 - An folgenden Plätzen sind gedruckte Termine Möglich
-  - AWO Termin Schaukasten
-  - Panciera
-  - im Rathaus (öffentlicher aushang)
-  - Post-Apotheke (verschwindet oft)
-  - Tourist-Information auf dem Schlossplatz (müssen nachfragen...)
-  - Nord-Apotheke
+  - AWO Termin Schaukasten (Termin übersicht)
+  - Panciera (Nur einzelne Termine)
+  - im Rathaus (öffentlicher aushang) (Termin übersicht und einzelne)
+  - Post-Apotheke (verschwindet oft) (Nur einzelne Termine)
+  - Tourist-Information auf dem Schlossplatz (müssen nachfragen...) (Termin übersicht)
+  - Nord-Apotheke (Termin übersicht)
 
 TODO Anfragen:
 -  Kundenbretter in Märkten
