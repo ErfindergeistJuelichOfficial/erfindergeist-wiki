@@ -15,11 +15,16 @@ weight: 1
 - Termine werden auf der Webseite angezeigt.
 - An folgenden Plätzen sind gedruckte Termine Möglich
   - AWO Termin Schaukasten
-  - Panciera 
+  - Panciera
   - im Rathaus (öffentlicher aushang)
   - Post-Apotheke (verschwindet oft)
   - Tourist-Information auf dem Schlossplatz (müssen nachfragen...)
-  
+  - Nord-Apotheke
+
+TODO Anfragen:
+-  Kundenbretter in Märkten
+- Bacciocco Apotheke (war bisser uninterresant weil der aushang druch den umbau blockiert war)
+- Schlossplatz Apotheke
 
 
 ## Repair Café
