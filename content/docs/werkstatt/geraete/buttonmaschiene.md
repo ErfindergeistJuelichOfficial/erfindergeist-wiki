@@ -27,7 +27,7 @@ weight: 1
 
 ## Dokumente
 
-- liegt bei
+- [Bedienungsanleitung](https://www.badgematic.de/media/wysiwyg/pagebuilder/Flexi-Anleitung-BADGEMATIC-DE-Stand-09.2022.pdf)
 - Backup: `Mitglieder/Räumlichkeiten/Inventar/Buttonmaschine Badgematic 900 Flexi Anleitung Stand 09.2022.pdf`
 
 ## Zubehör
