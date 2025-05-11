@@ -20,9 +20,10 @@ weight: 1
 > - Um den Rücken zu schonen besser im Sitzen Arbeiten
 > - Finger nicht quetschen
 
-## Besitzer
+## Besitzer / Sonstiges
 
 - Leihgabe
+- Der Besitzer möchte das nur Original Buttons verwendet werden.
 
 ## Dokumente
 
