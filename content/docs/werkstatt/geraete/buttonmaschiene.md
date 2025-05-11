@@ -10,11 +10,9 @@ weight: 1
 ---
 # Buttonmaschine
 
-- BadgeMatic
-- Buttonmaschine 900 Flexi
+- Hersteller: [BadgeMatic](https://www.badgematic.de/)
+- Bezeichnung: [Buttonmaschine 900 Flexi](https://www.badgematic.de/de/buttonmaschinen/maschinen-buttonmaschine-900-flexi)
 - interne Bezeichnung: "buttonmaschine"
-- [https://www.badgematic.de/de/buttonmaschinen/maschinen-buttonmaschine-900-flexi](Produktseite)
-- [https://www.badgematic.de/](https://www.badgematic.de/)
 - [Galerie](https://galerie.erfindergeist.org/index.php?/category/47)
 
 ## Schutzvorkehrungen
