@@ -25,11 +25,6 @@ weight: 1
 - Leihgabe
 - Der Besitzer möchte das nur Original Buttons verwendet werden.
 
-## Dokumente
-
-- Anleitung liegt bei
-- Backup: Unter `Mitglieder/Räumlichkeiten/Inventar/Buttonmaschine Badgematic 900 Flexi Anleitung Stand 09.2022.pdf`
-
 ## Zubehör
 
 - 32mm Stempel
@@ -46,6 +41,7 @@ weight: 1
 ## Bedienungsanleitung
 
 - liegt bei
+- Backup: `Mitglieder/Räumlichkeiten/Inventar/Buttonmaschine Badgematic 900 Flexi Anleitung Stand 09.2022.pdf`
 
 ## Tests
 
