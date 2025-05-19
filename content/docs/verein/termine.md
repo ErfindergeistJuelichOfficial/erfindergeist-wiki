@@ -16,7 +16,8 @@ weight: 1
 - An folgenden Plätzen sind gedruckte Termine Möglich
   - AWO Termin Schaukasten (Termin übersicht)
   - im Rathaus (öffentlicher aushang) (Termin übersicht und einzelne)
-  - Tourist-Information auf dem Schlossplatz (Stadtmarketing will die Termine aufhängen wenn Platz ist)
+  - Tourist-Information auf dem Schlossplatz (Stadtmarketing will die Termine aufhängen wenn Platz ist) 
+    - Flyer sollen besser gehen
 - Einzel Termine
   - Nord-Apotheke (Nur einzelne Termine)
   - Panciera (Nur einzelne Termine)
