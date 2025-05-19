@@ -18,6 +18,7 @@ weight: 1
   - im Rathaus (öffentlicher aushang) (Termin übersicht und einzelne)
   - Tourist-Information auf dem Schlossplatz (Stadtmarketing will die Termine aufhängen wenn Platz ist) 
     - Flyer sollen besser gehen
+  - Start-up village will aber es gibt nicht wirklich eine stelle.
 - Einzel Termine
   - Nord-Apotheke (Nur einzelne Termine)
   - Panciera (Nur einzelne Termine)
