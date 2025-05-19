@@ -28,12 +28,12 @@ weight: 1
   - Schlossplatz Apotheke
   - Musikschule
   - VHS / Museumsverwaltung
-  - FH-Aachen, Campus Jülich oder auch am (E-Mail keine antwort)
+  - FH-Aachen, Campus Jülich oder auch am (E-Mail keine antwort 04.2025)
   - Forschungszentrum Jülich (Mitglied fragt an)
   - Bonhöfer-Haus (b.haus)
   - Roncalli jugendtreff
   - Freibad
-  - Brückenkopf-Parl Jülich (angefragt, keine antwort)
+  - Brückenkopf-Parl Jülich (angefragt, keine antwort 04.2025)
 - Facebook
 - Instagram
   
