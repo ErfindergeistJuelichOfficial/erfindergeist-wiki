@@ -20,7 +20,7 @@ weight: 1
 - Einzel Termine
   - Nord-Apotheke (Nur einzelne Termine)
   - Panciera (Nur einzelne Termine)
-  - Post-Apotheke (verschwindet oft) (Nur einzelne Termine)
+  - Post-Apotheke (Nur einzelne Termine) (verschwindet oft)
 - Anfragen (Todo):
   - Kundenbretter in Märkten
   - Bacciocco Apotheke (war bisser uninterresant weil der aushang druch den umbau blockiert war)
@@ -32,8 +32,10 @@ weight: 1
   - Bonhöfer-Haus (b.haus)
   - Roncalli jugendtreff
   - Freibad
+  - Brückenkopf-Parl Jülich (angefragt, keine antwort)
+- Facebook
+- Instagram
   
-
 ## Repair Café
 
 Termine für das Repair Café bitte auch hier eintrage:
