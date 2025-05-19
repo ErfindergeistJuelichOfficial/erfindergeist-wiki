@@ -15,17 +15,20 @@ weight: 1
 - Termine werden auf der Webseite angezeigt.
 - An folgenden Plätzen sind gedruckte Termine Möglich
   - AWO Termin Schaukasten (Termin übersicht)
-  - Panciera (Nur einzelne Termine)
   - im Rathaus (öffentlicher aushang) (Termin übersicht und einzelne)
+  - Tourist-Information auf dem Schlossplatz (Stadtmarketing will die Termine aufhängen wenn Platz ist)
+- Einzel Termine
+  - Nord-Apotheke (Nur einzelne Termine)
+  - Panciera (Nur einzelne Termine)
   - Post-Apotheke (verschwindet oft) (Nur einzelne Termine)
-  - Tourist-Information auf dem Schlossplatz (müssen nachfragen...) (Termin übersicht)
-  - Nord-Apotheke (Termin übersicht)
-
-TODO Anfragen:
--  Kundenbretter in Märkten
-- Bacciocco Apotheke (war bisser uninterresant weil der aushang druch den umbau blockiert war)
-- Schlossplatz Apotheke
-
+- Anfragen (Todo):
+  - Kundenbretter in Märkten
+  - Bacciocco Apotheke (war bisser uninterresant weil der aushang druch den umbau blockiert war)
+  - Schlossplatz Apotheke
+  - Musikschule
+  - VHS / Museumsverwaltung
+  - FH-Aachen, Campus Jülich oder auch am (E-Mail keine antwort)
+  - Forschungszentrum Jülich (Mitglied fragt an)
 
 ## Repair Café
 
