@@ -37,7 +37,7 @@ Folgend die Auflistung aller Subdomains.
 
 - [ci.erfindergeist.org](https://ci.erfindergeist.org)
 - Hier sind Logos und das corporate identity des Vereins zu finden.
-- Code: https://github.com/ErfindergeistJuelichOfficial/website im Ordner Ci
+- verlinkt auf das Wiki.
 
 ### Discord
 
