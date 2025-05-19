@@ -29,9 +29,10 @@ weight: 1
   - VHS / Museumsverwaltung
   - FH-Aachen, Campus Jülich oder auch am (E-Mail keine antwort)
   - Forschungszentrum Jülich (Mitglied fragt an)
-  - Bonhöfer-Haus
+  - Bonhöfer-Haus (b.haus)
+  - Roncalli jugendtreff
   - Freibad
-  - Jugend vereine?
+  
 
 ## Repair Café
 
