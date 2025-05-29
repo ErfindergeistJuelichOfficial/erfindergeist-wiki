@@ -37,13 +37,23 @@ weight: 1
 - Um Staub zu reduzieren wird drum gebeten alles auf dem Regal in Boxen zu packen.
 - Wir freuen ums über jede gespendete Box
 
-|Liter|Maße|Link|
+|Bezeichnung|Maße|Link|
 |--|--|--|
-| 11L | 39x28x14 cm | https://www.ikea.com/de/de/p/samla-box-transparent-40102978/ |
-| 22L | 39x28x28 cm | https://www.ikea.com/de/de/p/samla-box-transparent-80102976/ |
-| 45L | 56x39x28 cm | https://www.ikea.com/de/de/p/samla-box-transparent-30102974/ |
+|Box 11L | 39x28x14 cm | https://www.ikea.com/de/de/p/samla-box-transparent-40102978/ |
+|Box 22L | 39x28x28 cm | https://www.ikea.com/de/de/p/samla-box-transparent-80102976/ |
+|Box 45L | 56x39x28 cm | https://www.ikea.com/de/de/p/samla-box-transparent-30102974/ |
+|Deckel 11L/22L | | https://www.ikea.com/de/de/p/samla-deckel-fuer-box-11-22-l-transparent-90455086/ |
+|Deckel 45L/65L | | https://www.ikea.com/de/de/p/samla-deckel-fuer-box-45-65-l-transparent-70455087/ |
 
 Markiert Boxen bitte entsprechend folgenden Bezeichnungen:
+
+### Vereins-Boxen
+
+- Hier kann Zubehör für Maschinen drin sein.
+- Material aus diesen Boxen darf nicht Zerstört oder entwendet werden.
+- Nach Gebrauch am selben Tag wieder hineinlegen.
+- Bei Bedarf Reinigen bevor man es zurück legt.
+- Dauerleihgaben bitte markieren
 
 ### Free-Boxen
 
@@ -71,3 +81,5 @@ Wenn ein Name auf der Box steht gehört es jemanden. Bitte nichts klauen von and
 ### Projekt-Boxen
 
 Diese Boxen sind für Projekte reserviert. Es sollten dort nur Personen dran gehen die mit dem Thema zu tun haben.
+
+
