@@ -39,8 +39,9 @@ weight: 1
 
 |Liter|Maße|Link|
 |--|--|--|
-|11L | 39x28x14 cm | https://www.ikea.com/de/de/p/samla-box-transparent-40102978/ |
-|22L | 39x28x28 cm | https://www.ikea.com/de/de/p/samla-box-transparent-80102976/ |
+| 11L | 39x28x14 cm | https://www.ikea.com/de/de/p/samla-box-transparent-40102978/ |
+| 22L | 39x28x28 cm | https://www.ikea.com/de/de/p/samla-box-transparent-80102976/ |
+| 45L | 56x39x28 cm | https://www.ikea.com/de/de/p/samla-box-transparent-30102974/ |
 
 Markiert Boxen bitte entsprechend folgenden Bezeichnungen:
 
