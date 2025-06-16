@@ -12,9 +12,8 @@ Alle aufgaben sind freiwillig! Ein Verein lebt aber nur von seinen Vereinsmitgli
 - einmal die Woche die Offene Werkstatt eröffnen
   - Es ist unser primäres ziel, laut Satzung, eine Offen Werkstatt anzubieten
   - Geteiltes leid ist halbes leid. Man kann ja auch nur einmal im Monat oder alle 2 Monate einmal. Jemand anders übernimmt dan die anderen Termine.
-  - Punkte Sammeln für die Ehrenamtskarte
 - Workshop veranstalten
-  - Teile dein Wissen zu einem Thema das die gefällt.
+  - Teile dein Wissen zu einem Thema das welches dir gefällt.
   - Andere Formate sind Möglich
 - Erweitere die Wiki
   - Komplettiere Werkstatt/Geräte
