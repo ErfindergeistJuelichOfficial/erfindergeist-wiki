@@ -42,6 +42,8 @@ Bei Bedarf oder alle 3 Monate.
 - 2 RC Cars mit Kamera um Mario Kart Live (Home Circuit) nachzubauen
   - bsp.: https://www.instructables.com/Lizard-3D-Printed-RC-Race-Car/
 - Robo Arm von HuggingFace https://github.com/TheRobotStudio/SO-ARM100
+- JülKI
+  - Juelich.de als KI
 
 ## Webseite
 
