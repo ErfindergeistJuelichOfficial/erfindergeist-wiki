@@ -37,13 +37,22 @@ Bei Bedarf oder alle 3 Monate.
 - Schreibt einen Artikel über eure Projekte
 - Verteil unsere [Termine](https://termine.erfindergeist.org/) in und um Jülich
 
-### Projekt Ideen
+## Workshop Ideen
+
+- Home assistant
+- Migration von Windows nach Linux
+
+## Projekt Ideen
 
 - 2 RC Cars mit Kamera um Mario Kart Live (Home Circuit) nachzubauen
   - bsp.: https://www.instructables.com/Lizard-3D-Printed-RC-Race-Car/
 - Robo Arm von HuggingFace https://github.com/TheRobotStudio/SO-ARM100
 - JülKI
   - Juelich.de als KI
+  - Es gibt viele Bürger die Fragen haben aber keine antworten finden. Es gilt dieses Problem zu lösen
+  - bitte vorher mit der Stadt Jülich abklären
+- PNP Drucke ein Brettspiel aus und füge es unserer Sammlung hinzu
+  - Empfohlene Liste: https://boardgamegeek.com/geeklist/9271/free-print-and-play-games-that-might-actually-be-w
 
 ## Webseite
 
