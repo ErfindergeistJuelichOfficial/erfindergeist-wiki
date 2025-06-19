@@ -39,8 +39,10 @@ Bei Bedarf oder alle 3 Monate.
 
 ## Workshop Ideen
 
-- Home assistant
+- Home assistant (Smart Home)
 - Migration von Windows nach Linux
+- Lunati (Minetest) Infrastruktur Workshop. Server Aufbauen, netzwerk und zocken https://www.luanti.org/
+  - Zielgruppe Jugendliche
 
 ## Projekt Ideen
 
@@ -51,7 +53,7 @@ Bei Bedarf oder alle 3 Monate.
   - Juelich.de als KI
   - Es gibt viele Bürger die Fragen haben aber keine antworten finden. Es gilt dieses Problem zu lösen
   - bitte vorher mit der Stadt Jülich abklären
-- PNP Drucke ein Brettspiel aus und füge es unserer Sammlung hinzu
+- Print&Play Spiel herstellen: Open Source Brettspiel nach Anleitung herstellen
   - Empfohlene Liste: https://boardgamegeek.com/geeklist/9271/free-print-and-play-games-that-might-actually-be-w
 
 ## Webseite
