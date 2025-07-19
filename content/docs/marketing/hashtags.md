@@ -14,8 +14,13 @@ folgend eine Übersicht von guten Hashtags für unsere Social Media Posts
 
 ## Allgemein
 
-#Makerspace #Fablab #OffeneWerkstatt #DIY
+#Erfindergeist #MakerSpace #Fablab #OffeneWerkstatt #DIY #OffenFürAlle #VerbundOffenerWerkstätten
 
 ## Einzugsgebiet
 
- #Jülich #Titz #Linnich #Niederzier #Aldenhoven #Düren #Erkelenz #Alsdorf
+#Jülich #Juelich #Titz #Linnich #Niederzier #Aldenhoven #Düren #Dueren #Erkelenz #Alsdorf #Aachen #Indeland #KreisDüren
+
+## andere
+
+TODO
+#RepairCafe #
