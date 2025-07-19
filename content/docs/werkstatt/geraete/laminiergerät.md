@@ -24,6 +24,10 @@ weight: 1
 
 - Leihgabe
 
+### wer kann helfen bei fragen?
+
+- Lars
+
 ## Dokumente
 
 - [Bedienungsanleitung](https://www.olympia-vertrieb.de/fileadmin/produkte/laminiergeraete/A_330_Plus/20250428_Laminator_A230_330_Plus_DE_EN_FR_IT_NL_ES_PT_CZ_PL_HR_GR_TR_AR_Online.pdf)
@@ -41,17 +45,17 @@ weight: 1
 
 ## Technische Daten
 
-Heiß- und Kaltlaminieren
-Formate bis zu DIN A3 möglich
-Laminierbreite: 330 mm
-Kompaktes, modernes Design
-Hochwertiges Heizsystem verhindert Blasenbildung
-Automatische Abschaltung bei Überhitzung
-Inkl. 15 Laminierfolien: 3x A4, 4x A5, 4x A6, 4x Visitenkartenformat
-Aufwärmzeit: 2 - 3 Min.
-Folienstärke: 75-125 micron
-Laminiergeschwindigkeit: 400 mm/Minute
-Maximale Laminierstärke: 0,5 mm
-Stau-Entriegelungstaste
-Anzeigen: LEDs für Power und Ready
-Spannungsversorgung: 220-240V, 50 Hz, 1,76A, 360W
+- Heiß- und Kaltlaminieren
+- Formate bis zu DIN A3 möglich
+- Laminierbreite: 330 mm
+- Kompaktes, modernes Design
+- Hochwertiges Heizsystem verhindert Blasenbildung
+- Automatische Abschaltung bei Überhitzung
+- Inkl. 15 Laminierfolien: 3x A4, 4x A5, 4x A6, 4x Visitenkartenformat
+- Aufwärmzeit: 2 - 3 Min.
+- Folienstärke: 75-125 micron
+- Laminiergeschwindigkeit: 400 mm/Minute
+- Maximale Laminierstärke: 0,5 mm
+- Stau-Entriegelungstaste
+- Anzeigen: LEDs für Power und Ready
+- Spannungsversorgung: 220-240V, 50 Hz, 1,76A, 360W

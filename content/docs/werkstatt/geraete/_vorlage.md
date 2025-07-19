@@ -25,6 +25,13 @@ _folgend was zu beachten ist, kurzform_
 
 ## Besitzer / Sonstiges
 
+- Erfindergeist
+- Leihgabe
+
+### wer kann helfen bei fragen?
+
+- Vorname
+
 ## Dokumente
 
 - _Bedienungsanleitung_

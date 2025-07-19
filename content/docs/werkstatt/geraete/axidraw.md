@@ -23,7 +23,11 @@ _folgend was zu beachten ist, kurzform_
 
 ## Besitzer / Sonstiges
 
-Leihgabe
+- Leihgabe
+
+### wer kann helfen bei fragen?
+
+- Johannes
 
 ## Zubehör
 
