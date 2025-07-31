@@ -50,4 +50,3 @@ weight: 1
 ## Bedienungsanleitung
 
 - Wenn man von Stempel 1 auf 2 schwenkt sollte man kur nachdrücken an der sperre damit die Nippel richtig in die Löscher gehen.
-
