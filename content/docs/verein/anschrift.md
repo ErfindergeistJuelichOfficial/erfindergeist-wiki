@@ -19,10 +19,19 @@ Erfindergeist Jülich e.V.
 Bauhofstraße 18
 52428 Jülich
 
-- https://erfindergeist.org/kontakt/
-- https://erfindergeist.org/impressum/
-- https://mitgliedsantrag.erfindergeist.org/ 2x
-
+- [ ] Alle Mitglieder
+- [ ] Amtsgericht
+- [ ] Finanzamt
+- [ ] Sparkasse
+- [ ] Verbund offener Werkstätten Vertrag?
+- [ ] Vermieter Werkstatt
+- [ ] Web Hoster
+- [ ] GEZ
+- [ ] Freiwilligenzentrum Carita Jülich
+- [x] https://erfindergeist.org/kontakt/
+- [x] https://erfindergeist.org/impressum/
+- [x] https://mitgliedsantrag.erfindergeist.org/ 2x
+- [ ] https://www.juelich.de/vereinesonstige
 
 ## Werkstatt
 
