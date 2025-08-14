@@ -26,3 +26,5 @@ weight: 1
   - Holz
   - Metall/Elektro
 
+- Spezielle veranstaltungen
+  - mobilitätstag
