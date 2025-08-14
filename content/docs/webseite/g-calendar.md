@@ -40,6 +40,7 @@ Die Tags sind nicht fest programmiert. Diese sind Dynamisch je Kalender einstell
   - `#OffeneWerkstatt`
   - `#Repaircafe`
   - `#KreativTag`
+  - `#Mobilitaetstag`
 - Ort (nur ein Tag pro Termin verwenden)
   - `#Awo`
   - `#Stadtbücherei`
