@@ -30,9 +30,18 @@ Bauhofstraße 18
 - [x] Freiwilligenzentrum Caritas Jülich
 - [x] https://www.juelich.de/vereinesonstige
 - [x] Briefkopf 2x
+- [x] E-Mail-Signatur
 - [x] https://erfindergeist.org/kontakt/
 - [x] https://erfindergeist.org/impressum/
 - [x] https://mitgliedsantrag.erfindergeist.org/ 2x
+
+## Telefonnummer
+
+02461/6210862
+
+- [x] E-Mail-Signatur
+- [x] Briefkopf
+- [x] https://erfindergeist.org/kontakt/
 
 ## Werkstatt Adresse
 
