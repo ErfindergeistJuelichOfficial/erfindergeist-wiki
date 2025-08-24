@@ -39,6 +39,8 @@ Bauhofstraße 18
 - [x] Ablage/Mitglieder/Vorlagen/Einweisungsbestätigung und Haftungsausschluss.docx
 - [ ] Repair Café Haftungsbegrenzung
 - [x] Dokumente im Vorlagen Ordner in der Werkstatt
+- [x] https://www.reparatur-initiativen.de/repaircafe-juelich
+- [x] https://www.offene-werkstaetten.org/werkstatt/erfindergeist
 
 ## Telefonnummer
 
@@ -62,3 +64,5 @@ Marie-Juchacz-Weg 2
 - https://erfindergeist.org/angebote/werkstatt/
 - https://erfindergeist.org/angebote/repaircafe/
 - https://www.repaircafe.org/de/cafe/repair-cafe-julich/
+- https://www.reparatur-initiativen.de/repaircafe-juelich
+- https://www.offene-werkstaetten.org/werkstatt/erfindergeist
