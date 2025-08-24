@@ -11,7 +11,7 @@ weight: 1
 
 # Anschrift
 
-folgend unsere Anschriften und die position wo dies aktualisiert werden muss bei einem umzug.
+folgend unsere Anschriften und die position wo dies aktualisiert werden muss bei änderungen.
 
 ## Postanschrift
 
