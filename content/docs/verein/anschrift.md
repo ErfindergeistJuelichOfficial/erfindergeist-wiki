@@ -38,6 +38,7 @@ Bauhofstraße 18
 - [x] https://mitgliedsantrag.erfindergeist.org/ 2x
 - [x] Ablage/Mitglieder/Vorlagen/Einweisungsbestätigung und Haftungsausschluss.docx
 - [ ] Repair Café Haftungsbegrenzung
+- [x] Dokumente im Vorlagen Ordner in der Werkstatt
 
 ## Telefonnummer
 
