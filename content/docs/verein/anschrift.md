@@ -19,13 +19,15 @@ Erfindergeist Jülich e.V.
 Bauhofstraße 18
 52428 Jülich
 
-- [ ] Alle Mitglieder
+- [x] Alle Mitglieder
+  - [x] Beitrag Webseite
+  - [x] Discord
 - [x] Amtsgericht
 - [x] Finanzamt
-- [ ] Bank
+- [x] Bank
 - [x] Verbund
 - [x] Vermieter
-- [ ] Web Hoster
+- [ ] Web Hoster (Muss via Brief)
 - [x] GEZ
 - [x] Freiwilligenzentrum Caritas Jülich
 - [x] https://www.juelich.de/vereinesonstige
@@ -34,6 +36,8 @@ Bauhofstraße 18
 - [x] https://erfindergeist.org/kontakt/
 - [x] https://erfindergeist.org/impressum/
 - [x] https://mitgliedsantrag.erfindergeist.org/ 2x
+- [x] Ablage/Mitglieder/Vorlagen/Einweisungsbestätigung und Haftungsausschluss.docx
+- [ ] Repair Café Haftungsbegrenzung
 
 ## Telefonnummer
 
@@ -42,6 +46,7 @@ Bauhofstraße 18
 - [x] E-Mail-Signatur
 - [x] Briefkopf
 - [x] https://erfindergeist.org/kontakt/
+- [x] Achtung Videoüberwacht (Eingang Werkstatt, Ablage/Mitglieder/Räumlichkeiten)
 
 ## Werkstatt Adresse
 
