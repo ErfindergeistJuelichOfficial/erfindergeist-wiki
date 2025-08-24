@@ -43,6 +43,7 @@ Bauhofstraße 18
 
 02461/6210862
 
+- [x] https://www.repaircafe.org/de/cafe/repair-cafe-julich/
 - [x] E-Mail-Signatur
 - [x] Briefkopf
 - [x] https://erfindergeist.org/kontakt/
