@@ -28,10 +28,12 @@ Bauhofstraße 18
 - [ ] Web Hoster
 - [x] GEZ
 - [x] Freiwilligenzentrum Caritas Jülich
+- [x] https://www.juelich.de/vereinesonstige
+- [x] Briefkopf 2x
 - [x] https://erfindergeist.org/kontakt/
 - [x] https://erfindergeist.org/impressum/
 - [x] https://mitgliedsantrag.erfindergeist.org/ 2x
-- [x] https://www.juelich.de/vereinesonstige
+
 
 ## Werkstatt Adresse
 
