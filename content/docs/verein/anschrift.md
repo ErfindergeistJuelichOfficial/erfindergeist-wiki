@@ -34,7 +34,6 @@ Bauhofstraße 18
 - [x] https://erfindergeist.org/impressum/
 - [x] https://mitgliedsantrag.erfindergeist.org/ 2x
 
-
 ## Werkstatt Adresse
 
 Hinweis: nicht Ladungsfähig!
@@ -46,5 +45,3 @@ Marie-Juchacz-Weg 2
 - https://erfindergeist.org/
 - https://erfindergeist.org/angebote/werkstatt/
 - https://erfindergeist.org/angebote/repaircafe/
-
-
