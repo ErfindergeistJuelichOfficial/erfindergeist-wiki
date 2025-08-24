@@ -61,3 +61,4 @@ Marie-Juchacz-Weg 2
 - https://erfindergeist.org/
 - https://erfindergeist.org/angebote/werkstatt/
 - https://erfindergeist.org/angebote/repaircafe/
+- https://www.repaircafe.org/de/cafe/repair-cafe-julich/
