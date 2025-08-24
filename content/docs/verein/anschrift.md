@@ -20,22 +20,24 @@ Bauhofstraße 18
 52428 Jülich
 
 - [ ] Alle Mitglieder
-- [ ] Amtsgericht
-- [ ] Finanzamt
-- [ ] Sparkasse
-- [ ] Verbund offener Werkstätten Vertrag?
-- [ ] Vermieter Werkstatt
+- [x] Amtsgericht
+- [x] Finanzamt
+- [ ] Bank
+- [x] Verbund
+- [x] Vermieter
 - [ ] Web Hoster
-- [ ] GEZ
-- [ ] Freiwilligenzentrum Carita Jülich
+- [x] GEZ
+- [x] Freiwilligenzentrum Caritas Jülich
 - [x] https://erfindergeist.org/kontakt/
 - [x] https://erfindergeist.org/impressum/
 - [x] https://mitgliedsantrag.erfindergeist.org/ 2x
-- [ ] https://www.juelich.de/vereinesonstige
+- [x] https://www.juelich.de/vereinesonstige
 
-## Werkstatt
+## Werkstatt Adresse
 
-Maria-Juchacz-Weg 2
+Hinweis: nicht Ladungsfähig!
+
+Marie-Juchacz-Weg 2
 52428 Jülich
 
 - https://erfindergeist.org/kontakt/
