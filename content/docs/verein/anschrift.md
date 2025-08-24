@@ -27,7 +27,7 @@ Bauhofstraße 18
 - [x] Bank
 - [x] Verbund
 - [x] Vermieter
-- [ ] Web Hoster (Muss via Brief)
+- [x] Web Hoster
 - [x] GEZ
 - [x] Freiwilligenzentrum Caritas Jülich
 - [x] https://www.juelich.de/vereinesonstige
