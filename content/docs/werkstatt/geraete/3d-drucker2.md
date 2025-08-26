@@ -10,12 +10,13 @@ weight: 1
 ---
 # 3D-Drucker2
 
-- Prusa
-- Core One
+- Hersteller: Prusa
+- Bezeichnung: Core One
 - interne Bezeichnung `3D-Drucker2`
 - [Hersteller Webseite](https://www.prusa3d.com/de/)
 - [Produkt Webseite](https://www.prusa3d.com/de/produkt/prusa-core-one-kit)
-- Seriennummer TODO
+- Seriennummer: Prusa Core One: SN25046034096
+- Seriennummer: Advanced Filtration: SN25048007721
 
 ## Schutzvorkehrungen
 
@@ -28,8 +29,14 @@ weight: 1
 
 ## Dokumente
 
-- TODO: Sicherheitsdokumente
-- TODO: Bedienungsanleitung
+- [prusa3d_manual_coreone_10_1_de.pdf](https://help.prusa3d.com/de/product/core-one)
+
+## Wartung
+
+- [Druckerwartung Online](https://help.prusa3d.com/de/product/core-one/drucker-wartung_247)
+- [druckerwartung-core-one-829710-2025-08-26-20_40_43.pdf](https://help.prusa3d.com/de/article/regelmasige-druckerwartung-core-one_829710)
+- [screencapture-help-prusa3d-de-article-anpassung-der-riemenspannung-core-one-845048-2025-08-26-20_43_12.pdf](https://help.prusa3d.com/de/article/anpassung-der-riemenspannung-core-one_845048)
+- TODO: weitere dokus backupen!!!
 
 ## Zubehör
 
@@ -43,29 +50,38 @@ weight: 1
 
 ## Einschaltung
 
-- TODO
+- Stecker einstecken
+- Netzschalter auf Ein
 
 ## Ausschaltung
 
-- TODO
-
+- Filament entfernen
+- abkühlen lassen (unter100°C)
+- Netzschalter auf Aus
+- Stecker ziehen
 
 ## Bedienungsanleitung
 
-TODO Digitale version finden, oder scannen.
-- Backup alle Anleitungen: `Mitglieder - Dokumente\Räumlichkeiten\AWO\Inventar dokus\3D-Drucker2\`
+- Backup alle Anleitungen: `Ablage/Mitglieder - Dokumente/Räumlichkeiten/AWO/Inventar dokus/3D-Drucker2/`
+
+### Revision der verbauten Druckbaren Teile
+
+TODO
 
 ### PLA einspannen
 
 TODO
 
-### OctoPi
+### Prusa Connect
 
-TODO OCTO PI
+Es gibt ein Vereins Konto. Bitte beim Vorstand oder Erfahrenen Mitglieder melden. Mann muss seine Prusa Connect E-Mail an uns weitergeben wir können euch dann einladen.
+Mann kann das via https://connect.prusa3d.com/ oder der APP oder Software den 3D-Drucker Steuern.
 
 ### Slicer Settings
 
-- Nozzle 0.4mm
+Aktuell ist eine High Flow Nozzle eingebaut
+
+- Nozzle HF 0.4mm
 
 ## Technische Daten
 
