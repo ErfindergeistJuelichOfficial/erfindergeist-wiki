@@ -1,5 +1,5 @@
 ---
-title: "3D-Drucker"
+title: "3D-Drucker (Anycubic i3 Mega S)"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
-# 3D-Drucker
+# 3D-Drucker (Anycubic i3 Mega S)
 
 - Anycubic 
 - i3 Mega S
