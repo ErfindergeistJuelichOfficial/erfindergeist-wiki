@@ -95,9 +95,8 @@ Standardmäßig ist eine gehärtete 0.4 mm High-Fow Düse verbaut welche für di
 
 ### Slicer Settings
 
-Es wird empfohlen den [PrusaSlicer(https://www.prusa3d.com/de/page/prusaslicer_424/)] oder die [Prusa App](https://prusa.app) zu verwenden.
-
-Folgende (abweichende) Einstellungen gelten standardmäßig für unseren Drucker:
+Es wird empfohlen den [PrusaSlicer](https://www.prusa3d.com/de/page/prusaslicer_424/) oder die [Prusa App](https://prusa.app) zu verwenden.\
+Folgende (abweichende) Einstellungen gelten standardmäßig für diesen Drucker:
 
 - Düsengröße 0.4 mm
 - High-Flow Nozzle
