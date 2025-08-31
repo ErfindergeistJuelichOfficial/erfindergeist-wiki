@@ -39,12 +39,23 @@ Vorteile von M365:
 - Wer will kann bei <kontakt@erfindergeist.org> mithelfen (also bei Kontaktanfragen)
 - Dort liegen alle unsere Dateien (Fotos, Finanzen, Präsentationen, etc...)
 
-## Werkstatt Zutritt
+## Werkstatt
+
+### Zutritt
 
 Zugriff zur Werkstatt erfolgt via
 <https://nuki.io/de/app/>
 
 Kann bei einem persönlichen treffen gerne eingerichtet werden.
+
+zwischen 22 Uhr und 7 Uhr morgens ist eine Alarmanlage aktiv. Bitte kurz Bescheid geben, wenn man während diesen Zeiten in der Werkstatt verweilen will. In diesen Zeiten bitte keinen Lärm machen da auch Mieter im Haus Wohnen.
+
+### Regeln
+
+Bitte lies dir die Regeln zur Nutzung der Werkstatt durch
+<https://wiki.erfindergeist.org/docs/werkstatt/regeln/verhaltensregeln/>
+
+Spreche bitte den Vorstand an für die Einweisungsbestätigung und Haftungsausschluss
 
 ## Termine
 
@@ -61,7 +72,6 @@ Bei folgenden Aktivitäten werden immer aktive Leute gesucht:
 
 Hier kann man kleinere Aufgaben finden, welche den Verein voran bringen:
 
-- Aufgabenboard in der Werkstatt.
 - <https://github.com/orgs/ErfindergeistJuelichOfficial/projects/2>
 
 ### Weitere Aufgaben

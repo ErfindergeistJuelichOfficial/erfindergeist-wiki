@@ -22,6 +22,22 @@ Folgende Pflichten sind wichtig und es wird drum gebeten das auch Mitglieder ein
 Diese Sektion werden wir nach und nach mit euren Fragen und Antworten befüllen. Darum ist es hilfreich, wenn ihr uns eine E-MAIL mit aufkommenden Fragen an reparieren@anstiftung.de schickt.
 - Pflichten: Das Logo von [bmuv](https://www.bmuv.de/) muss 5 Jahre (bis 2030) auf unserer Webseite zu finden sein.
 
+## Monatliche aufgaben
+
+- Einnahmen Ausgaben Excel Aktualisieren. Will das Finanzamt unter umständen sehen. Daher immer gepflegt halten
+- Rückblick auf der Webseite pflegen. Das Finanzamt will diese unter umständen sehen für das Finanzamt in Tätigkeitsnachweis umbenennen.
+- Backup
+  - Website
+  - Ablage Dokumente
+  - HomeAssistant
+  - Github
+  - Infrastruktur (TODO)
+
+## Mitgliedsbeiträge
+
+- Mitglieder mit SEPA müssen per Hand im Online Portal bearbeitet werden
+- üblich sind diese am 1.1 jedes Jahr fällig.
+
 ## Steuer
 
 alle Drei Jahre (ziklus 22,23,24 danach 25,26,27 usw.) müssen beim Finanzamt Jülich Steuern eingereicht werden um unsere Gemeinnützigkeit aufrecht zu erhalten.
