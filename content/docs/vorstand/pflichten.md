@@ -26,11 +26,14 @@ Diese Sektion werden wir nach und nach mit euren Fragen und Antworten befüllen.
 
 alle Drei Jahre (ziklus 22,23,24 danach 25,26,27 usw.) müssen beim Finanzamt Jülich Steuern eingereicht werden um unsere Gemeinnützigkeit aufrecht zu erhalten.
 
+Der Freistellungsbescheid muss beo folgenden Trägern eingereicht werden:
+
+- Amtsgericht
+- PayPal
+- Bank?
+
 ## Adressänderung
 
 Bitte überall mitteilen:
 
-- Finanzamt Jülich
-- Amtsgericht Düren
-- Webhoster
-- Vertragspartner (Vermieter)
+siehe wiki/verein/anschriften

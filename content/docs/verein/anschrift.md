@@ -25,6 +25,7 @@ Bauhofstraße 18
 - [x] Amtsgericht
 - [x] Finanzamt
 - [x] Bank
+- [x] PayPal
 - [x] Verbund
 - [x] Vermieter
 - [x] Web Hoster

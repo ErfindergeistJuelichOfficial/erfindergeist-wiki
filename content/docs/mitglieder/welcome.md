@@ -27,7 +27,7 @@ Solltest Du KEIN SEPA-Lastschriftmandat beigelegt haben, sende bitte deinen Mitg
 
 ## Kommunikation
 
-Wir Kommunizieren hauptsächlich via Discord, einer Chat-Platform:
+Wir Kommunizieren hauptsächlich via Discord, dies ist eine Chat-Platform:
 <https://discord.erfindergeist.org/>
 
 ## Dokumente
@@ -53,8 +53,8 @@ Termine findest du unter:
 
 Bei folgenden Aktivitäten werden immer aktive Leute gesucht:
 
-- Workshop gestalten und abhalten
-- Öffnung der Werkstatt (2-4h)
+- Workshop gestalten und abhalten (Selber einen Leiten oder mitmachen)
+- Öffnung der Werkstatt (2-4h) (Ziel Wöchentlich)
 - Repair Café (wir brauchen Reparateure aber auch Leute am Empfang)
 
 ## Aufgaben
@@ -67,7 +67,7 @@ Hier kann man kleinere Aufgaben finden, welche den Verein voran bringen:
 ### Weitere Aufgaben
 
 - Webseiten pflegen
-- Influence (Marketing)
+- Marketing (Influence)
 - Erstellen von Dokumentation (Maschinen, Geräte)
 - Werkstatt säubern
 
@@ -90,6 +90,4 @@ Kontakt zum Vorstand via:
 
 - E-Mail: <vorstand@erfindergeist.org>
 
-<!-- ## Satzung
 
-Unsere Satzung findest du hier: INSERT LINK-->
