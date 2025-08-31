@@ -24,6 +24,7 @@ Diese Sektion werden wir nach und nach mit euren Fragen und Antworten befüllen.
 
 ## Monatliche aufgaben
 
+- Kontoauszüge speichern
 - Einnahmen Ausgaben Excel Aktualisieren. Will das Finanzamt unter umständen sehen. Daher immer gepflegt halten
 - Rückblick auf der Webseite pflegen. Das Finanzamt will diese unter umständen sehen für das Finanzamt in Tätigkeitsnachweis umbenennen.
 - Backup
