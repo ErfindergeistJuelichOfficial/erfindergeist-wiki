@@ -29,7 +29,7 @@ weight: 1
 
 ## Besitzer
 
-- Vereinseigentum
+- Leihgabe [Lars Eschweiler]
 
 ## Dokumente
 
