@@ -29,7 +29,7 @@ weight: 1
 
 ## Besitzer
 
-- Leihgabe [Lars Eschweiler]
+- Leihgabe
 
 ## Dokumente
 
