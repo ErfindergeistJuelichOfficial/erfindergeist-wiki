@@ -31,19 +31,38 @@ qrcode --type "png" --output "qr link to erfindergeist.org H30.png" -e "H" -w "2
 - Folgend all erzeugten QRCodes.
 - Die STL versionen sind auf eine eben reduziert.
 
-![qr_link_to_erfindergeist.org_H30.svg](/images/marketing/qr/qr_link_to_linktree_H30.svg)
+- qr_link_to_linktree_H30.svg
+![qr_link_to_linktree_H30.svg](/images/marketing/qr/qr_link_to_linktree_H30.svg)
+
+- qr_link_to_linktree_H30.png
 ![qr_link_to_linktree_H30.png](/images/marketing/qr/qr_link_to_linktree_H30.png)
+
+- qr_link_to_linktree_H30_stl.svg
 ![qr_link_to_linktree_H30_stl.svg](/images/marketing/qr/qr_link_to_linktree_H30_stl.svg)
 
-
+- qr_link_to_instagram_H30.svg
 ![qr_link_to_instagram_H30.svg](/images/marketing/qr/qr_link_to_instagram_H30.svg)
+
+- qr_link_to_instagram_H30.png
 ![qr_link_to_instagram_H30.png](/images/marketing/qr/qr_link_to_instagram_H30.png)
+
+- qr_link_to_instagram_H30_stl.svg
 ![qr_link_to_instagram_H30_stl.svg](/images/marketing/qr/qr_link_to_instagram_H30_stl.svg)
 
+- qr_link_to_erfindergeist.org_H30.svg
 ![qr_link_to_erfindergeist.org_H30.svg](/images/marketing/qr/qr_link_to_erfindergeist.org_H30.svg)
+
+- qr_link_to_erfindergeist.org_H30.png
 ![qr_link_to_erfindergeist.org_H30.png](/images/marketing/qr/qr_link_to_erfindergeist.org_H30.png)
+
+- qr_link_to_erfindergeist.org_H30_stl.svg
 ![qr_link_to_erfindergeist.org_H30_stl.svg](/images/marketing/qr/qr_link_to_erfindergeist.org_H30_stl.svg)
 
+- qr_link_to_paypal_donate_H30.svg
 ![qr_link_to_paypal_donate_H30.svg](/images/marketing/qr/qr_link_to_paypal_donate_H30.svg)
+
+- qr_link_to_paypal_donate_H30.png
 ![qr_link_to_paypal_donate_H30.png](/images/marketing/qr/qr_link_to_paypal_donate_H30.png)
+
+- qr_link_to_paypal_donate_H30_stl.svg
 ![qr_link_to_paypal_donate_H30_stl.svg](/images/marketing/qr/qr_link_to_paypal_donate_H30_stl.svg)
