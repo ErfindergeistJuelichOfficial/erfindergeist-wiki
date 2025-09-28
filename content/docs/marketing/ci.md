@@ -28,15 +28,15 @@ Schriften: `DMS/marketing/CI`
 
 ### Logo 2
 
-![Logo2 png](/images/ci/marketing/Logo-02.png)
+![Logo2 png](/images/marketing/ci/Logo-02.png)
 
 ### Logo Monochrom
 
-![logo_monochrome.svg](/images/ci/marketing/logo_monochrome.svg)
+![logo_monochrome.svg](/images/marketing/ci/logo_monochrome.svg)
 
 ### Hintergrund
 
-![Hintergrund](/images/ci/marketing/Hintergrund.png)
+![Hintergrund](/images/marketing/ci7Hintergrund.png)
 
 - in M365 liegen weitere Logos.
 - Das Logo liegt als AI bereit.
@@ -45,7 +45,7 @@ Schriften: `DMS/marketing/CI`
 
 ### Hauptfarbe
 
-- Farbe: ![Farbe 1](/images/ci/marketing/color1.png)
+- Farbe: ![Farbe 1](/images/marketing/ci/color1.png)
 - Name: Stamp Pad Green
 - CSS: #159989
 - RGB: 21/153/137
@@ -55,7 +55,7 @@ Schriften: `DMS/marketing/CI`
 
 ### Zweitfarbe
 
-- Farbe: ![Farbe 2](/images/ci/marketing/color2.png)
+- Farbe: ![Farbe 2](/images/marketing/ci/color2.png)
 - Name: Signal Gelb
 - CSS: #F9B338
 - RGB: 249/179/56
@@ -65,7 +65,7 @@ Schriften: `DMS/marketing/CI`
 
 ### Drittfarbe
 
-- Farbe: ![Farbe 3](/images/ci/marketing/color3.png)
+- Farbe: ![Farbe 3](/images/marketing/ci/color3.png)
 - CSS: #DADADA
 - RGB: 218/218/218
 - CMYK: 0%/0%/0%/20%
