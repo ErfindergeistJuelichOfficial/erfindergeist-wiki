@@ -29,7 +29,7 @@ qrcode --type "png" --output "qr link to erfindergeist.org H30.png" -e "H" -w "2
 ```
 
 - Folgend all erzeugten QRCodes.
-- Die STL versionen sind auf eine eben reduziert.
+- Die STL versionen sind auf eine eben reduziert um diese auf 3D-Drucker zu verwenden.
 
 - qr_link_to_linktree_H30.svg
 ![qr_link_to_linktree_H30.svg](/images/marketing/qr/qr_link_to_linktree_H30.svg)
