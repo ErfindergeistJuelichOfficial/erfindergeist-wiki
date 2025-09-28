@@ -12,6 +12,6 @@ weight: 1
 # Plakat
 
 - Versionen: `DMS/marketing/plakat`
-- Das Plakat ist eine SPendenaufruf von uns. Es soll zukünftig mit auf veranstaltungen.
+- Das Plakat ist eine Spendenaufruf von uns. Es soll zukünftig mit auf veranstaltungen und hängt im Raum.
 
 ![plakat_004.svg](/images/marketing/plakat/plakat_004.svg)
