@@ -1,5 +1,5 @@
 ---
-title: "Datenablage"
+title: "Dokumenten-Management-System"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -9,7 +9,11 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# Microsoft 365
+# Dokumenten-Management-System
+
+- kurz DMS
+
+## Microsoft 365
 
 - 300 Business Basic Lizenzen
 - Dateien bitte so ablegen Das diese via Windows Datei Explorer zu 100%kopiert werden können

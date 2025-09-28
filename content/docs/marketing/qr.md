@@ -11,7 +11,8 @@ weight: 1
 
 # QR
 
-es wurde https://www.npmjs.com/package/qrcode verwendet um die QRCodes zu erzeigen
+- Backup: `DMS/marketing/qr/wiki`
+- es wurde https://www.npmjs.com/package/qrcode verwendet um die QRCodes zu erzeigen
 
 ```
 npm install -g qrcode

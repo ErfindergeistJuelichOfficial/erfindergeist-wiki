@@ -8,6 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
+
 # Laminiergerät
 
 - Hersteller: Olympia
@@ -32,8 +33,7 @@ weight: 1
 
 - [Bedienungsanleitung](https://www.olympia-vertrieb.de/fileadmin/produkte/laminiergeraete/A_330_Plus/20250428_Laminator_A230_330_Plus_DE_EN_FR_IT_NL_ES_PT_CZ_PL_HR_GR_TR_AR_Online.pdf)
 - [Datenblatt](https://www.olympia-vertrieb.de/pdf.php?url=aHR0cHM6Ly93d3cub2x5bXBpYS12ZXJ0cmllYi5kZS9kZS9wcm9kdWt0ZS9vZmZpY2UvbGFtaW5pZXJlbi9sYW1pbmllcmdlcmFldGUvbGFtaW5pZXJlbi1iaXMtYTMvbGFtaW5pZXJnZXJhZXQtYS0zMzAtcGx1cy5odG1sP3R5cGU9OTc2NTEyMw==&config=OlympiaNeu&name=A%20330%20PLUS)
-- Backup Bedinungsanleitung: `Mitglieder/Räumlichkeiten/Inventar/olympia a 330 plus 20250428_Laminator_A230_330_Plus_DE_EN_FR_IT_NL_ES_PT_CZ_PL_HR_GR_TR_AR_Online.pdf` 
-- Backuo Datenblatt: `Mitglieder/Räumlichkeiten/Inventar/olympia Datenblatt A 330 PLUS.pdf`
+- Backups: `DMS/Mitglieder/Räumlichkeiten/Geräte/`
 
 ## Einschaltung
 
