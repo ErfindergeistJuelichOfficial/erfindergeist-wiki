@@ -15,6 +15,7 @@ weight: 1
 - Weitere Dateien: `DMS/marketing/bierdeckel`
 - wurde bei der Firma [wir-machen-druck](https://www.wir-machen-druck.de/) bestellt
 - Optionen: [Rund, 107mm 4/4 Farbig beidseitig](https://www.wir-machen-druck.de/bierdeckel-rund-d-107-mm-44farbig-beidseitig-bedruckt.html)
+- 09.09.2024: Bestellt 1250, Preis 161,46€ Brutto
 
 ![bierdeckel-vorderseite.svg](/images/marketing/bierdeckel/bierdeckel-vorderseite.svg)
 ![bierdeckel-rueckseite.svg](/images/marketing/bierdeckel/bierdeckel-rueckseite.svg)
