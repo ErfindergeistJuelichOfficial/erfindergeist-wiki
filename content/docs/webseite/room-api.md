@@ -14,6 +14,7 @@ weight: 1
 - Alle Daten werden Stündlch aktualisiert.
 - es gibt einige Sensoren wir Wasser, Rauch, Schlößer und Bewegung welche bei status änderung sofort aktualisiert werden.
 - Dies ist eine reine Lese-API. es können keine Daten an den Raum gesendet werden.
+- Wer möchte kann sich damit einen Dashboard für zuhause bauen. Wir freuen uns auf Fotos.
 
 ## curl example
 
