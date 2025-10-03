@@ -1,5 +1,5 @@
 ---
-title: "Room-API"
+title: "Room-Status"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -9,12 +9,13 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# Room-API
+# Room-Status
 
-- Alle Daten werden Stündlch aktualisiert.
+- [GitHub](https://github.com/ErfindergeistJuelichOfficial/room-status)
+- Alle Daten werden Stündlich aktualisiert.
 - es gibt einige Sensoren wir Wasser, Rauch, Schlößer und Bewegung welche bei status änderung sofort aktualisiert werden.
-- Dies ist eine reine Lese-API. es können keine Daten an den Raum gesendet werden.
-- Wer möchte kann sich damit einen Dashboard für zuhause bauen. Wir freuen uns auf Fotos.
+- Es können keine Daten an den Raum gesendet werden.
+- Wer möchte kann sich damit einen Dashboard für zuhause bauen. Wir freuen uns auf Beiträge von euch.
 
 ## curl example
 
