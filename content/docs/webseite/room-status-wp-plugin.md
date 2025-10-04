@@ -20,9 +20,9 @@ weight: 1
 ## Einige Mappings mit Fakten
 
 | key | gerät | Zone | Beschreibung |
-|--|--|--|
-| sensorA5A8... | Xiaomi MI Thermometer V2 | IT-Ecke |
-| sensorA4F0... | Xiaomi MI Thermometer V2 | Tischbohrmaschine |
+|--|--|--|--|
+| sensorA5A8... | Xiaomi MI Thermometer V2 | IT-Ecke | Temperatur, Luftfeuchte Batterie|
+| sensorA4F0... | Xiaomi MI Thermometer V2 | Tischbohrmaschine | Temperatur, Luftfeuchte Batterie |
 | currentMeterNetworkEnergy | Shelly PM Mini Gen3 | Netzwerk-Schrank | Gesamte kWh Verbrauch der Netzwerk-Schrank seit 1.6.2024 |
 | plugPrusaEnergy | TP-Link Tapo P110M Matter | Steckdose 3D-Drucker2 (Prusa-Core-One) | Gesamt kWh Verbrauch des Druckers seit 1.10.2025 |
 
