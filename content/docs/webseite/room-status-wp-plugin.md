@@ -1,5 +1,5 @@
 ---
-title: "Room-Status"
+title: "Room-Status-wp-plugin"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -9,9 +9,9 @@ weight: 1
 # bookSearchExclude: false
 ---
 
-# Room-Status
+# Room-Status-wp-plugin
 
-- [GitHub](https://github.com/ErfindergeistJuelichOfficial/room-status)
+- [GitHub](https://github.com/ErfindergeistJuelichOfficial/room-status-wp-plugin)
 - Alle Daten werden Stündlich aktualisiert.
 - es gibt einige Sensoren wir Wasser, Rauch, Schlößer und Bewegung welche bei status änderung sofort aktualisiert werden.
 - Es können keine Daten an den Raum gesendet werden.
