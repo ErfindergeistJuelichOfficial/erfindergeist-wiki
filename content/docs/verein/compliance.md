@@ -32,11 +32,12 @@ weight: 1
   - Mindestalter 16 Jahre (siehe Satzung)
   - Voraussetzung: Schriftliche Einwilligung des Erziehungsberechtigten
   
-- Arbeiten in der Werkstatt
+- Arbeiten in der Werkstatt ohne Eltern
   - Mindestalter 12 Jahre
   - Voraussetzung Schriftliche Einwilligung des Erziehungsberechtigten
   - Siehe Verhaltensregeln Werkstatt
   - Betreuer muss vor Ort sein
+  - Eine weitere Person muss vor Ort sein
 
 - Betreuer und Trainer
   - Jährliche einsicht in das erweiterte Führungszeugnis
