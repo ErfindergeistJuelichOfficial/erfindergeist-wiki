@@ -1,0 +1,47 @@
+---
+title: "Compliance"
+weight: 1
+# bookFlatSection: false
+# bookToc: true
+# bookHidden: false
+# bookCollapseSection: false
+# bookComments: false
+# bookSearchExclude: false
+---
+
+# Compliance
+
+## Finanzen
+
+- Ausschließlich der 1. Vorstand darf Geld freigeben.
+- Einsicht in `Einnahmen & ausgaben Übersicht` gewähren
+  - Mitglieder: Jederzeit via [DMS](/verein/dokumenten-management-system/)
+  - Mitglieder, Sponsoren, Spender: Nach anfrage in zwei Wochen
+
+## Vertreten des Verein in der Öffentlichkeit
+
+- Vorstand und Vertretung
+
+## Workshops
+
+- Jedes Mitglied aber auch externe können nach Rücksprache mit dem Vorstand Workshops halten
+
+## Jugenschutz
+
+- Mitglied werden
+  - Mindestalter 16 Jahre (siehe Satzung)
+  - Voraussetzung: Schriftliche Einwilligung des Erziehungsberechtigten
+  
+- Arbeiten in der Werkstatt
+  - Mindestalter 12 Jahre
+  - Voraussetzung Schriftliche Einwilligung des Erziehungsberechtigten
+  - Siehe Verhaltensregeln Werkstatt
+  - Betreuer muss vor Ort sein
+
+- Betreuer und Trainer
+  - Jährliche einsicht in das erweiterte Führungszeugnis
+  - Sind Öffentlich mit Foto auf unserer Webseite benannt
+  - TODO: Schulungen
+
+- Verein
+  - TODO: Vernetzung mit Instituten die bei Problemfällen beraten können
