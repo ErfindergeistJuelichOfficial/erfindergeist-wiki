@@ -30,6 +30,7 @@ Folgend die Auflistung aller Subdomains.
 - [werkstatt.erfindergeist.org](https://werkstatt.erfindergeist.org)
 - [wiki-test.erfindergeist.org](https://wiki-test.erfindergeist.org)
 - [wiki.erfindergeist.org](https://wiki.erfindergeist.org)
+- [station.erfindergeist.org](https://station.erfindergeist.org)
 
 ## Beschreibungen
 
@@ -132,3 +133,8 @@ Folgend die Auflistung aller Subdomains.
 - Verlinkt auf die gerade besuchte Webseite. Gehostet in github pages.
 - Der Main Branch wird hier automatisch deployed.
 - Code: https://github.com/ErfindergeistJuelichOfficial/wiki
+
+### Station
+
+- [station.erfindergeist.org](https://station.erfindergeist.org)
+- Informationen zur Fahrrad Station vor der AWO.
