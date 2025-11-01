@@ -15,8 +15,8 @@ weight: 1
 
 - Ausschließlich der 1. Vorstand darf Geld freigeben.
 - Einsicht in `Einnahmen & ausgaben Übersicht` gewähren
-  - Mitglieder: Jederzeit via [DMS](/verein/dokumenten-management-system/)
-  - Mitglieder, Sponsoren, Spender: Nach anfrage in zwei Wochen
+  - Mitglieder: Jederzeit via [DMS](/verein/dokumenten-management-system/) unter `dms/mitglieder/finanzen/Einnahmen Ausgaben Erfindergeist.xlsx`
+  - Mitglieder, Sponsoren, Spender: Nach anfrage innerhalb zwei Wochen
 
 ## Vertreten des Verein in der Öffentlichkeit
 
@@ -26,7 +26,7 @@ weight: 1
 
 - Jedes Mitglied aber auch externe können nach Rücksprache mit dem Vorstand Workshops halten
 
-## Jugenschutz
+## Jugendschutz
 
 - Mitglied werden
   - Mindestalter 16 Jahre (siehe Satzung)
@@ -35,13 +35,14 @@ weight: 1
 - Arbeiten in der Werkstatt ohne Eltern
   - Mindestalter 12 Jahre
   - Voraussetzung Schriftliche Einwilligung des Erziehungsberechtigten
-  - Siehe Verhaltensregeln Werkstatt
+  - Verhaltensregeln Werkstatt akzeptiert
   - Betreuer muss vor Ort sein
   - Eine weitere Person muss vor Ort sein
 
 - Betreuer und Trainer
   - Jährliche einsicht in das erweiterte Führungszeugnis
   - Sind Öffentlich mit Foto auf unserer Webseite benannt
+  - Jülicher Kodex: Niemals nur 1 Erwachsender und 1 Minderjähriger. Einseitig 2 Personen sind ok.
   - TODO: Schulungen
 
 - Verein

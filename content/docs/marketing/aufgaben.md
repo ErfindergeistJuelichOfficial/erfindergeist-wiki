@@ -13,4 +13,5 @@ weight: 1
 
 ## Wöchentlich
 
-Instagram Post erstellen
+- [ ] Social Media Posts
+- [ ] Webseite beitrag

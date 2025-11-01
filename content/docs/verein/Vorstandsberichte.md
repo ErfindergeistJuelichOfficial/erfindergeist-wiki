@@ -11,6 +11,7 @@ weight: 1
 
 # Vorstandsberichte
 
+aktuelles format: power Point
 
 Notes:
 Vorstand und Kassenbericht im Power-Point in Rechenschaftsbericht umbenennen
