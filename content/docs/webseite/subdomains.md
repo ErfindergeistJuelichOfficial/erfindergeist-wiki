@@ -140,7 +140,7 @@ Folgend die Auflistung aller Subdomains.
 - [station.erfindergeist.org](https://station.erfindergeist.org)
 - Informationen zur Fahrrad Station vor der AWO.
 
-### Konto 
+### Konto
 
 - [konto.erfindergeist.org](https://konto.erfindergeis.org)
 - Unser Konto
