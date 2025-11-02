@@ -85,6 +85,14 @@ folgend optimale Einstellungen zum Schneiden:
 - Die Grundplatte ist 300x200mm Eine 300x300mm Holzplatte passt drauf ohne runter kippen.
 - Man kann auch 300x300 bedrucken wenn man den Druck in 2 teilen aufteilt.
 
+#### Umbau Anleitung Schiebeverlängerung
+
+- Laser-Strahl-Schutz-Kasten entfernen. Achtung Laser-Schutz-Brille Tragen!
+- Andere Personen vor Laser-Strahlen schützen!
+- Slider Extension aufbauen und via USB mit dem Hauptgerät verbinden
+- In der Software Einstellungen Slider-Extension aktivieren
+- Hinweis: in der App in Vorschau: Das verschieben des Drucks führt dazu das die Slider Extension auch fährt. so kann man etwas testen.
+
 ### Tests
 
 #### Schneiden
