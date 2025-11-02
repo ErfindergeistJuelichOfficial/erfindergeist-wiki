@@ -19,6 +19,8 @@ weight: 1
 > - Laser-Schutz-Brille anziehen
 > - Laser-Schutz-Gehäuse verwenden falls möglich
 > - Personen ohne Laser-Schutz-Brille aus dem Raum verweisen
+> - Hinweis an Türe aufhängen das Laser-Arbeiten durchgeführt werden
+> - Hinweis an Türe anbringen das man nur mit Schutzbrille den Raum betreten darf.
 
 ## Dokumente
 
@@ -75,6 +77,13 @@ folgend optimale Einstellungen zum Schneiden:
   - Stroke paint: "black" ![InkScape2](/images/laser-gravierer/test_1_inkScape_02.png)
   - Stroke style: "0,4mm, solid line" ![InkScape3](/images/laser-gravierer/test_1_inkScape_03.png)
 - als PNG mit 300 DPI exportieren
+
+### Schiebeverlängerung (Slide Extension)
+
+- Druckbeet erhöhung auf 300x160mm
+- Abzug und Laser-Schutzt gehen leider nicht mehr.
+- Die Grundplatte ist 300x200mm Eine 300x300mm Holzplatte passt drauf ohne runter kippen.
+- Man kann auch 300x300 bedrucken wenn man den Druck in 2 teilen aufteilt.
 
 ### Tests
 
