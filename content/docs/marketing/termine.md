@@ -16,27 +16,18 @@ weight: 1
 - An folgenden Plätzen sind gedruckte Termine Möglich
   - AWO Termin Schaukasten (Termin übersicht)
   - im Rathaus (öffentlicher aushang) (Termin übersicht und einzelne)
-  - Tourist-Information auf dem Schlossplatz (Stadtmarketing will die Termine aufhängen wenn Platz ist) 
-    - Flyer sollen besser gehen
   - Start-up village will aber es gibt nicht wirklich eine stelle.
 - Einzel Termine
   - Nord-Apotheke (Nur einzelne Termine)
   - Panciera (Nur einzelne Termine)
-  - Post-Apotheke (Nur einzelne Termine) (verschwindet oft)
-- Anfragen (Todo):
-  - Kundenbretter in Märkten
-  - Bacciocco Apotheke (war bisser uninterresant weil der aushang druch den umbau blockiert war)
-  - Schlossplatz Apotheke
-  - Musikschule
-  - VHS / Museumsverwaltung
-  - FH-Aachen, Campus Jülich oder auch am (E-Mail keine antwort 04.2025)
-  - Forschungszentrum Jülich (Mitglied fragt an)
-  - Bonhöfer-Haus (b.haus)
+  - Post-Apotheke (verschwindet oft)
+  - Sparkasse: Wir haben die erlaubnis aber jemand entfernt unsere Plakate immer
+  - Bonhöfer-Haus (b.haus Jugendtreff)
   - Roncalli jugendtreff
-  - Freibad
-  - Brückenkopf-Parl Jülich (angefragt, keine antwort 04.2025)
-- Facebook
-- Instagram
+  - FH-Aachen, Campus Jülich oder auch am (Mitglied kann aufhängen)
+
+- Nicht Möglich
+  - Forschungszentrum Jülich alles Digital, kommen wir nicht ran aktuell
   
 ## Repair Café
 

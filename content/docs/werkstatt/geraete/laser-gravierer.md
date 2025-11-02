@@ -93,6 +93,8 @@ folgend optimale Einstellungen zum Schneiden:
 - In der Software Einstellungen Slider-Extension aktivieren
 - Hinweis: in der App in Vorschau: Das verschieben des Drucks führt dazu das die Slider Extension auch fährt. so kann man etwas testen.
 
+Aufbau Slider-Extension Fotos: TODO
+
 ### Tests
 
 #### Schneiden
