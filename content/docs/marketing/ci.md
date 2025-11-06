@@ -48,7 +48,7 @@ Schriften: `DMS/marketing/CI`
 
 ### Hintergrund
 
-![Hintergrund](/images/marketing/ci7Hintergrund.png)
+![Hintergrund](/images/marketing/ci/Hintergrund.png)
 
 - in M365 liegen weitere Logos.
 - Das Logo liegt als AI bereit.
