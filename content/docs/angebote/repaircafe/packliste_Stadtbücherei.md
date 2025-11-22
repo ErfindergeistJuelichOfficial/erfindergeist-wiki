@@ -60,7 +60,9 @@ Bitte nur Sauberer sachen hier herein legen
 | Beschreibung | Benötigt | Vorhanden | Wo |
 |---|---|---|---|
 | Akkuschrauber | 1 | 1 | Lars |
-| Messgeräte | 1 | 1 | Lars |
+| Benning ST 710 Gerätetester VDE-Norm 0701-0702 | 1 | bestellt | Elektro-Schrank |
+| LCR-T7 | 1 | bestellt | Elektro-Schrank |
+| Messgerät Eevblog bm235 | 1 | bestellt | Elektro-Schrank |
 | Kompressor | 1 | 1 | Werkstatt |
 | Spendenbox | 1 | 1 | Werkstatt |
 | Ständer | 1 | 1 | Werkstatt |
