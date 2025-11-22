@@ -12,20 +12,56 @@ weight: 1
 
 Bitte nur Sauberer sachen hier herein legen
 
-- [ ] Kekse
-- [ ] 2 Wasserflaschen
-- [ ] Servietten
-- [ ] Spenden-Box (von der Werkstatt mit nehmen)
-- [ ] Hefter
-  - [ ] 30 Reperaturzettel
-  - [ ] Reperatur-Initiativen
+| Beschreibung | Benötigt | Vorhanden |
+|---|---|---|
+| Wasser | 3 | 3 |
+| Kuchen Kekse | 1 | frisch kaufen |
+| Servieten | 1 | 1 |
+| Kulis | 6 | 10 |
+| Haftungsbeschränkungen | 30 | 30 |
+| Hausordnung | 2 | 2 |
 
-## PAckliste Verbrauchs-Kiste
+## Packliste Kiste
 
-- [ ]WD40
-- [ ] WD40 Kontaktspray
-- [ ] WD40 Silikonspray
-- [ ] WD40 xxx
-- [ ] Reinigunsmittel (Neutralreiniger) (neu kaufen)
-- [ ] Motor Kohlen
-- [ ] Schraube Sammlung
+| Beschreibung | Benötigt | Vorhanden |
+|---|---|---|
+| Erstehilfekasten | 1 | 1 |
+| Tischschutz | 6 | 6 |
+| Steckdosen | 6 | 6 |
+| Kabeltrommel | 1 | 1 |
+| Lötkolben | 1 | 1 |
+| Lötzinn | 1 | 1 |
+| Flussmittel | 1 | bestellt |
+| Feucht Tücher | 1 | prüfen |
+| Müllsäcke | 1 | prüfen |
+| Wiederstände set | 1 | prüfen |
+| LED set | 1 | 1 |
+| Schrumpfschlauch set | 1 | 1 |
+| Kondensatoren set | 1 | prüfen |
+| Riemen set | 1 | 0 |
+| Motor kohlen set | 1 | 1 |
+| WD40 | 1 | 1 |
+| Kontaktspray | 1 | 1 |
+| Silikonspray | 1 | 1 |
+| Isopropanol | 1 | bestellt |
+| Spülmittel | 1 | todo |
+| Sekundenkleber | 1 | bestellt |
+| Zwei Komponenten kleber | 1 | bestellt |
+| Lithiumfett | 1 | 0 |
+| Zahnstocher | 10 | 10 |
+| Ohrenstäbchen | 10 | 10 |
+| Kabelbinder | 10 | 10 |
+| Isolierband | 1 | prüfen |
+| Panzertape | 1 | prüfen |
+| Krep band | 1 | prüfen |
+
+## Packliste weitere dinge
+
+| Beschreibung | Benötigt | Vorhanden | Wo |
+|---|---|---|---|
+| Akkuschrauber | 1 | 1 | Lars |
+| Messgeräte | 1 | 1 | Lars |
+| Kompressor | 1 | 1 | Werkstatt |
+| Spendenbox | 1 | 1 | Werkstatt |
+| Ständer | 1 | 1 | Werkstatt |
+| Reinigunsmittel (Neutralreiniger) | 1 | 1 | Werkstatt |
