@@ -69,4 +69,5 @@ Bitte nur Sauberer sachen hier herein legen
 | Ständer | 1 | 1 | Werkstatt |
 | Reinigunsmittel (Neutralreiniger) | 1 | 1 | Werkstatt |
 | Mikrofasertücher | 3 | 3 | Werkstatt |
+| itixit Schraubendreher Set | 1 | 1 | Werkzeug Wagen 
 
