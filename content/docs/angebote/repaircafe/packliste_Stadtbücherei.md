@@ -14,47 +14,56 @@ Bitte nur Sauberer sachen hier herein legen
 
 | Beschreibung | Benötigt | Vorhanden |
 |---|---|---|
-| Wasser | 3 | 3 |
-| Kuchen/Kekse | 1 | frisch kaufen |
+| Erstehilfekasten | 1 | 1 |
+| Kuchen/Kekse | 1 | 1 |
 | Servietten | 1 | 1 |
+| Küchenrolle | 1 | 1 |
 | Kulis | 6 | 10 |
 | Haftungsbeschränkungen | 30 | 30 |
 | Hausordnung | 2 | 2 |
+| Bierdeckel | 10 | 10 |
+| Werbung für Freunde | x | x |
+| Tischdecke | 1 | 1 |
+| Mobiler Lötkolben (Lötzinn in verpackung) | 1 | 1 |
+| Flussmittel | 1 | 1 |
+| Test-CDs | 1 | 1 |
+| Persönlicher RCD | 1 | 1 |
+| Kabelbinder Packung | 1 | 1 |
+| Isolierband | 1 | prüfen |
+| Gewebeband | 1 | 1 |
+| Kreppband | 1 | 1 |
+| Verpackungsband | 1 | 1 |
+| Zahnstocher Packung | 1 | 1 |
+| Ohrenstäbchen Packung | 1 | 1 |
+| Feucht Tücher | 1 | 1 |
+| PC Adapter Box | 1 | 1 |
 
 ## Packliste Kiste
 
 | Beschreibung | Benötigt | Vorhanden |
 |---|---|---|
-| Erstehilfekasten | 1 | 1 |
 | Tischschutz | 6 | 6 |
 | Steckdosen | 6 | 6 |
 | Kabeltrommel | 1 | 1 |
-| Lötkolben | 1 | 1 |
-| Lötzinn | 1 | 1 |
-| Flussmittel | 1 | bestellt |
-| Feucht Tücher | 1 | prüfen |
-| Müllsäcke | 1 | prüfen |
-| Wiederstände set | 1 | prüfen |
-| Sicherungen set | 1 | 0 |
+| Motor Kohlen set | 1 | 1 |
 | LED set | 1 | 1 |
 | Schrumpfschlauch set | 1 | 1 |
-| Kondensatoren set | 1 | prüfen |
+| Wiederstände set | 1 | 1 |
+| Kondensatoren set | 1 | 1 |
+| Sicherungen set | 1 | 0 |
 | Riemen set | 1 | 0 |
-| Motor Kohlen set | 1 | 1 |
 | WD40 | 1 | 1 |
 | Kontaktspray | 1 | 1 |
 | Silikonspray | 1 | 1 |
+| Rostlöser | 1 | 1 |
+| Sekundenkleber | 1 | bestellt |
+| Entkalcker Tabs | 5 | 5 |
+| Stecker | 2 | 3 |
+| Müllsäcke | 1 | prüfen |
 | Isopropanol | 1 | bestellt |
 | Spülmittel | 1 | kaufen |
-| Sekundenkleber | 1 | bestellt |
 | Zwei Komponenten Kleber | 1 | bestellt |
 | Lithiumfett | 1 | 0 |
-| Zahnstocher Packung | 1 | 1 |
-| Ohrenstäbchen Packung | 1 | 1 |
-| Kabelbinder Packung | 1 | 1 |
-| Isolierband | 1 | prüfen |
-| Panzertape | 1 | 1 |
-| Kreppband | 1 | 1 |
 
 ## Packliste weitere dinge
 
@@ -69,5 +78,4 @@ Bitte nur Sauberer sachen hier herein legen
 | Ständer | 1 | 1 | Werkstatt |
 | Reinigunsmittel (Neutralreiniger) | 1 | 1 | Werkstatt |
 | Mikrofasertücher | 3 | 3 | Werkstatt |
-| itixit Schraubendreher Set | 1 | 1 | Werkzeug Wagen 
-
+| iFixit Schraubendreher Set | 1 | 1 | Werkzeug Wagen |
