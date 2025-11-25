@@ -31,6 +31,8 @@ Folgend die Auflistung aller Subdomains.
 - [wiki-test.erfindergeist.org](https://wiki-test.erfindergeist.org)
 - [wiki.erfindergeist.org](https://wiki.erfindergeist.org)
 - [station.erfindergeist.org](https://station.erfindergeist.org)
+- [konto.erfindergeist.org](https://konto.erfindergeis.org)
+- [linktree.erfindergeist.org](https://linktree.erfindergeist.org)
 
 ## Beschreibungen
 
@@ -138,3 +140,13 @@ Folgend die Auflistung aller Subdomains.
 
 - [station.erfindergeist.org](https://station.erfindergeist.org)
 - Informationen zur Fahrrad Station vor der AWO.
+
+### Konto
+
+- [konto.erfindergeist.org](https://konto.erfindergeis.org)
+- Unser Konto bsp.: für Spenden
+
+### Linktree
+
+- [linktree.erfindergeist.org](https://linktree.erfindergeist.org)
+- Wichtige Links im überblock

@@ -22,21 +22,33 @@ Schriften: `DMS/marketing/CI`
 
 ## Logos
 
-### Logo 1
+### Logo 1 PNG
 
 ![Logo jpg](/images/marketing/ci/Logo.jpg)
 
-### Logo 2
+### Logo 2 PNG
 
 ![Logo2 png](/images/marketing/ci/Logo-02.png)
 
-### Logo Monochrom
+### Logo Monochrom SVG
 
 ![logo_monochrome.svg](/images/marketing/ci/logo_monochrome.svg)
 
-### Hintergrund
+### Logo weiss SVG
 
-![Hintergrund](/images/marketing/ci7Hintergrund.png)
+![logo-weiss.svg](/images/marketing/ci/logo-weiss.svg)
+
+### Logo Dunkel SVG
+
+![logo-schwarz.svg](/images/marketing/ci/logo-schwarz.svg)
+
+### Logo Text SVG
+
+![logo-text.svg](/images/marketing/ci/logo-text.svg)
+
+### Hintergrund.png
+
+![Hintergrund.png](/images/marketing/ci/Hintergrund.png)
 
 - in M365 liegen weitere Logos.
 - Das Logo liegt als AI bereit.
