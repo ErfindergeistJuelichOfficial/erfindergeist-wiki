@@ -10,11 +10,11 @@ weight: 1
 ---
 # _Vorlage
 
-- AYWHP
-- [LCR-T7 Multifunktionaler TFT Transistor Tester](http://www.mcustart.cn/zl/esr1/T7.html)
-- Teilenummer: XDA089
-- ASIN: B0F48HMV4X
-- interne Bezeichnung: _Eindeutige Bezeichnung für Einweisungsbestätigung (string)_ `Vorlage`
+- Reseller: [DIY MORE](diymore.cc)
+- Hersteller: XIAMEN YANMAL ELECTRONIC TECHNOLOGIY CO., LTD
+- Bezeichnung: LCR-T7 Multifunktionaler TFT Transistor Tester
+- Produkt Model: GXQD0071-AAA
+- interne Bezeichnung: `LCR-T7`
 - [Produkt Webseite](http://www.mcustart.cn/zl/esr1/T7.html)
 
 ## Schutzvorkehrungen
