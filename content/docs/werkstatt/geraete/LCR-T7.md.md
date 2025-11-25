@@ -1,5 +1,5 @@
 ---
-title: "_vorlage_"
+title: "LCR-T7 Multifunktionaler TFT Transistor Tester"
 weight: 1
 # bookFlatSection: false
 # bookToc: true
@@ -8,7 +8,7 @@ weight: 1
 # bookComments: false
 # bookSearchExclude: false
 ---
-# _Vorlage
+# LCR-T7 Multifunktionaler TFT Transistor Tester
 
 - Reseller: [DIY MORE](diymore.cc)
 - Hersteller: XIAMEN YANMAL ELECTRONIC TECHNOLOGIY CO., LTD
