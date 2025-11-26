@@ -1,3 +1,8 @@
+> [!NOTE]
+> Die Wiki ist umgezogen, der öffentliche Link lautet: [wiki.erfindergeist.org](wiki.erfindergeist.org)
+> 
+> Mitglieder können diese unter folgendem Link editieren: [docs.erfindergeist.org](docs.erfindergeist.org)
+
 # Erfindergeist Wiki
 
 The wiki is rendered to a static page using [hugo](https://gohugo.io/). It is deployed to Github pages and hosted at:\
